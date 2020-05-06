@@ -1,0 +1,3652 @@
+ambush
+埋伏 
+reconnoiter
+侦查；勘察 
+dispatch
+派遣 
+engage 
+交战 
+designate 
+指派；指定
+reconnaissance 
+侦查；勘察
+subordinate 
+下级的 
+vicinity
+ 周边；附近
+integrate 
+整合；结合
+navigate 
+导航；领航 
+organic unit 
+建制部队
+ ambush patrol 
+伏击巡逻
+presence patrol 
+常驻巡逻 
+combat patrol
+ 作战巡逻
+APL(assistant patrol leader)
+ 副巡逻队长 
+reconnaissance patrol
+ 侦察巡逻
+prisoner of war 
+战俘 
+tracking patrol 
+跟踪巡逻
+contingency planning 
+应急计划
+the main body of the unit 
+主力部队
+be engaged in close combat 
+进行近距离战斗
+in the close vicinity of the main body
+ 临近主力部队
+deep into enemy territory 
+深入敌方领土
+small-unit tactics 
+小分队战术
+conduct detailed search 
+进行仔细搜查
+perform the patrol task 
+执行巡逻任务
+maintain fire team integrity 
+保持火力组的完整性
+make direct contact with the enemy 
+与敌人直接对抗
+support those assaults by fire 
+支援火力攻击
+establish contact with the friendly forces 
+与其友军建立联络
+upon the completion of the task
+完成任务之后
+pivotal 
+中枢；关键 
+procure 
+获得；采购
+proactive 
+主动的；先发制人的
+augmentation 
+增加；扩充
+concurrent
+并行的；同时发生的
+infrastructure 
+基础设施
+deployment  
+部署 
+multidimensional 
+多样的
+authorization  
+批准；授权
+deliberation  
+审议
+mission area 
+任务区
+ROE (rule of engagement) 
+交战规则
+C3 (command, control and communication) 
+指挥、控制与通信 
+AOR ( area of responsibility) 
+责任区
+direct and indirect fire support 
+直瞄与间瞄火力支援
+situational awareness 
+态势感知
+contingent 
+分队
+UXO (unexploded ordnance) 
+未爆弹
+observation post 
+观察所
+IED (improvised explosive device) 
+简易爆炸装置
+to march into 
+列队进入
+have the flexibility to do… 
+做…很灵活 
+up to…level 
+达到…水平/级别 
+be laid out category wise with  
+按类别分为
+courtesy of… 
+经由…提供；承蒙好意
+to constitute the backbone of 
+构成主要力量
+be deployed in 
+部署到
+be executed by 
+由…遂行（执行）
+be specific to 
+具体到
+in the performance of 
+在执行（任务）的过程中
+terrain 
+地形，地势
+toil 
+艰苦地行进，跋涉
+front 
+正面，前方，前线
+flank 
+侧翼，侧面
+capture 
+俘虏，夺得  
+annihilation 
+歼灭，消灭
+maneuver  
+机动 
+mobility 
+移动性，机动性
+rout  
+溃退，击溃，大败 
+retreat 
+撤退
+battalion 
+营 
+gunner  
+炮兵，枪手
+cavalry squadron 
+骑兵中队 
+tactics  
+战术，战术指挥
+envelopment 
+(侧翼)包围，包抄  
+post 
+哨所，站
+outflank
+翼侧包围 
+armament 
+武器，军械
+column    
+纵行，纵队，分队 
+teamster 
+辎重兵
+defense mountain warfare  
+山地防御战 
+be covered by a steep mountainside  
+以陡峭的山坡作掩体 
+be supported by deep ravines  
+以深谷为依托 
+at snail’s pace  
+速度缓慢 
+cause a total rout  
+造成全面溃败 
+be in a favorable position  
+处于有利的位置 
+take up new positions 
+占领新阵地 
+draw up the line of battle  
+展开战列线 
+acquire overall/complete superiority  
+取得全面/完全优势 
+make common cause (with sb.)
+（与某人）联合 
+outflank the enemy  
+从侧翼包抄敌人 
+mass one’s strength against a single point  
+集中兵力对付某一点 
+pierce the line  
+突破防线 
+boot camp
+新训
+recruit
+新兵
+instructor
+教官
+weapons training 
+武器训练
+communications training
+通信培训
+first aid training 
+急救培训
+NBC training
+核生化训练
+FTX
+野战训练；野战演习
+map reading
+识图；地图识别
+military skills
+军事技能
+obstacle course
+障碍训练
+drill
+队列训练
+foot march
+徒步行军
+lights out
+熄灯
+marksmanship
+射击术
+tactical field maneuver
+野战战术动作；战术野战机动
+canoe
+独木舟
+machine gun
+机关枪
+rifle
+步枪
+pistol
+手枪
+Uniform军装
+combat uniform
+作训服
+beret
+贝雷帽
+boots
+作战靴
+cap badge
+帽徽
+badge of rank
+职级章
+belt
+腰带
+name tag
+姓名牌
+epaulette
+肩章
+camouflage
+迷彩服
+cap
+军帽
+civilian clothing
+便装
+NCO (Non-Commissioned Officer)
+军士；士官
+barracks
+营区
+salute 
+行礼
+parade
+阅兵
+deploy
+派遣
+promote
+晋升
+promotion
+晋升
+assign
+分配
+serve
+服役
+sergeant
+中士
+infantry regiment
+步兵团
+UNPROFOR
+联合国维护部队
+battalion
+营
+captain
+上尉
+reveille
+起床号
+personal hygiene
+洗漱；个人卫生
+barrack and uniform inspection
+内务检查
+PX
+营区小卖部（美）
+NAAFI
+营区小卖部（英）
+base
+基地
+Fall in!
+集合！
+On one rank (two ranks)!
+一（二）列队！
+Attention!
+立正！
+At ease!
+稍息！
+Right (Left)-dress!
+向右（左）看齐！
+Eyes-front!
+向前看！
+Count off!
+  报数！
+Call the roll!
+点名！
+Here!
+到！
+Extend!
+散开！
+Close!
+靠拢！
+Right (Left)-face!
+向右（左）转！
+About-face!
+向后转！
+Forward-march!
+齐步走！
+Double (time)-march!
+跑步走！
+Mark time-march!
+踏步走！
+Right (Left)-wheel!
+右（左）转弯走！
+Advance!
+前进！
+Halt!
+立定！
+Dismiss!
+解散！
+Ready! Set! Go!
+各就位，预备，跑！
+political instructor
+教导
+political commissar
+政委
+captain
+队长
+assault rifle
+突击步枪
+sniper rifle
+狙击枪
+range
+射程
+calibre
+（枪炮的）口径，内径；（子弹的）直径，弹径
+barrel
+枪管；炮管
+trigger
+（枪）扳机；起动装置；扳柄
+submachine gun
+冲锋枪
+cannon
+机关炮
+magazine
+弹匣
+(hand) grenade
+手榴弹
+sit-up
+仰卧起坐
+pushup
+俯卧撑
+squat
+深蹲
+dead lift
+硬拉
+dumbbell
+哑铃
+bench press
+卧推
+incline press
+斜板推举
+knee lift
+腿举
+lunge
+箭步蹲
+general 
+上将；（统称）将军
+lieutenant general 
+中将
+major general 
+少将
+brigadier (general)
+准将
+colonel 
+上校
+lieutenant colonel 
+中校
+major 
+少校
+captain 
+上尉；舰长；海军上校
+lieutenant 
+中尉
+second lieutenant 
+少尉
+regimental sergeant major 
+（二级、一级）军士长；团军士长（在英国或英联邦国家军队一般由一级准尉担任）
+warrant officer class 1 
+一级准尉
+company sergeant major
+（四级、三级）军士长；连军士长（在英国或英联邦国家军队一般由二级准尉担任）
+warrant officer class 2
+二级准尉
+staff sergeant 
+上士
+sergeant 
+中士
+corporal 
+下士
+lance corporal 
+一等兵
+private
+二等兵（列兵）
+army
+军
+corps
+军；专业兵种部队
+division
+师
+brigade
+旅
+regiment
+团
+battalion
+营
+company
+连
+platoon
+排
+squad
+班
+section 
+分队；班
+squadron
+（美陆军）营；（英陆军）连；（空军）中队
+battery
+炮兵连（群）
+battle group
+战斗群
+task force
+特遣部队，特遣队
+troop
+军队，部队
+unit
+部队
+section commander 
+分队长；班长
+second in command (2IC) 
+副指挥；二把手
+artillery
+炮兵
+armour
+装甲；装甲兵；装甲部队
+engineer
+工程兵
+infantry
+步兵
+field artillery
+野战炮兵
+signal corps
+通信部队
+chemical corps
+化学兵部队
+air defense artillery
+防空炮兵
+airborne infantry 
+空降步兵
+airmobile infantry
+空中机动部队
+armoured infantry
+装甲步兵
+mechanized infantry
+机械化步兵
+special forces
+特种部队
+medical corps
+军医队，医疗部队
+corps of engineers
+工兵部队
+military police corps
+宪兵队
+the Army Air Corps
+陆军航空兵；陆航队
+territorial army 
+（英国）后备本土陆军；本土防卫自卫队
+US Army Branches美国陆军部队
+Combat Arms
+作战部队
+Combat Support units
+作战支援部队；战斗支援部队
+Combat service support branches
+作战勤务保障
+British Army Branches英国陆军部队
+the Royal Army Medical Corps (RAMC) 
+皇家陆军医疗队
+the Royal Artillery (RA) 
+皇家炮兵团
+the Royal Electrical and Mechanical Engineers (REME) 
+皇家电气和机械工程兵
+the Intelligence Corps (INT CORPS) 
+情报部队
+the Royal Logistic Corps (RLC) 
+皇家后勤部队
+the Royal Engineers (RE)
+皇家陆军工兵
+the Royal Signals (R SIGNALS)
+皇家通信兵部队
+the Royal Armoured Corps
+皇家装甲部队
+The Princess of Wales’s Royal Regiment
+威尔士公主皇家团
+Infantry Fighting Vehicle (IFV)
+步兵战车
+Armoured Personnel Carrier (APC)
+装甲运兵车；军用载人装甲车
+briefing
+简令
+close support
+近距支援
+reserve 
+预备役
+militia
+民兵
+military intelligence
+军事情报
+at ease.
+稍息
+recruit
+新兵
+aviation
+航空
+transport
+运输，运输机
+quartermaster
+军需官
+ordnance
+军械
+maintain 
+维修、养护
+insignia
+徽章
+The People’s Liberation Army
+中国人民解放军
+(group) army
+集团军
+The Central Military Commission (CMC)
+中央军委
+Eastern Theater Command
+东部战区
+Western Theater Command
+西部战区
+Southern Theater Command
+南部战区
+Northern Theater Command
+北部战区
+Central Theater Command
+中部战区
+The chairman of the Central Military Commission
+中央军委主席
+army commander
+军长
+division commander
+师长
+brigade commander
+旅长
+regiment commander
+团长
+battalion commander
+营长
+company commander
+连长
+platoon leader
+排长
+squad leader
+班长
+Chief of the General Staff
+总参谋长
+Deputy Chief of the General Staff 
+副总参谋长
+Commander of Field Army
+野战军司令
+Secretary of State for Air
+空军大臣
+Secretary of Defense
+国防部长
+Chief of Staff
+参谋长
+Army Sergeant Major
+陆军军士长
+United States Military Academy （West Point）
+美国陆军军官学校（西点军校）
+Royal Military Academy of Sandhurst
+英国桑德赫斯特皇家军事学院（坐落在伦敦西南的萨里郡）
+Pakistan Military Academy
+巴基斯坦军事学院
+Australian Defense Force Academy
+澳大利亚国防军学院
+Egyptian Military Academy
+埃及军事学院
+National Defense Academy of Japan
+日本防卫大学
+Korean Military Academy
+韩国陆军军官学校
+Turkish Military Academy
+土耳其陆军军官学校
+Army Officer School Dresden
+德国德雷斯顿陆军军官学校
+National Defense Academy of India
+印度浦那初级国防学院
+Chulachomklao Royal Military Academy
+泰国帕尊宗告尉官学校
+Military Aircraft
+军用飞机
+bomber 
+轰炸机
+fighter
+战斗机
+helicopter
+直升机
+tanker/refueling aircraft
+加油机
+transport aircraft /cargo
+运输机
+jet fighter
+喷气战斗机
+fixed-wing aircraft
+固定翼飞机
+rotary-wing aircraft
+旋转翼飞机
+fighter-bomber
+战斗轰炸机
+stealth bomber
+隐形轰炸机
+attack helicopter
+武装直升机
+cargo helicopter
+运输直升机
+aerial refuelling
+空中加油
+blade
+螺旋桨叶
+paratrooper
+伞兵
+humanitarian relief
+人道主义救援
+reconnaissance
+侦察
+manoeuvrable
+机动的
+the US B-2 Spirit
+美国B-2“幽灵”轰炸机
+the Eurofighter 2000 / Typhoon
+欧洲“台风”战斗机
+the Black Hawk helicopter
+美国“黑鹰”直升机
+the AH-64 Apache attack helicopter
+美国AH-64“阿帕奇”武装攻击直升机
+the US C-130 Hercules
+美国C-130“大力神”运输机
+ground vehicle 
+地面车辆
+light tank
+轻型坦克
+heavy tank
+重型坦克
+armoured vehicle
+装甲车
+truck (American English) / lorry (British English)
+卡车（美式英语truck，英式英语lorry）
+jeep
+吉普
+armoured 
+装甲类
+unarmoured
+非装甲类
+battle taxi
+战地出租车
+Main Battle Tank (MBT)
+主战坦克
+configuration
+配置
+hull
+船体；外壳
+main gun
+主炮；主力炮 
+turret
+炮塔
+wheel
+车轮式
+track
+履带式
+rolling belt
+卷带
+bulldozer
+推土机
+tractor
+拖拉机
+mounted machine gun
+车载机枪
+the Warrior Infantry Fighting Vehicle
+英国“勇士”装甲步兵战车
+the German Leopard II Main Battle Tank (MBT)
+德国“豹”2型主战坦克
+the Chinese MBT-3000
+国产MBT-3000主战坦克
+the FV 432 Armoured Personnel Carrier
+英国FV 432装甲运兵车
+surface vessel 
+水面舰艇
+submarine
+潜艇
+aircraft carrier
+航空母舰
+river patrol boat
+内河巡逻艇
+frigate
+护卫舰
+anti-submarine combat
+反潜作战
+escort 
+n. 护送者；护卫队；护航舰（队）
+v. 护送；为…护航
+patrol
+巡逻
+destroyer
+驱逐舰
+to engage / to enter into combat with
+对抗; 攻击
+multi-purpose ship
+多用途舰船
+long-range missiles with nuclear warheads
+带有核弹头的远程导弹
+conventional missile
+常规导弹
+the US Spruance-class destroyer
+美国“斯普鲁恩斯”级驱逐舰
+the Seawolf (nuclear-powered attack submarines)
+美国“海狼”级攻击核潜艇
+ballistic submarine
+弹道导弹潜艇
+fleet
+舰队
+attack submarine
+攻击型潜艇
+foot
+英尺
+metre (UK) meter (US)
+米；公尺
+inch
+英寸
+meters per hour
+米 /小时
+knot
+节 (航速和风速单位)
+mile
+英里
+centimetre (UK) centimeter (US)
+厘米
+kilometre (UK) kilometer (US)
+公里
+litre (UK) liter (US)
+公升
+pound
+磅 (英美等国的重量单位，等于0.454公斤)
+mach
+马赫数（飞行速度除以音速）
+nautical mile
+海里（合1.852公里）
+to convert … into …
+折合；把……转化成 
+to multiply by
+乘以
+speed
+速度
+operating depth
+工作水深；作业深度
+armament
+ 武器；军备
+crew
+全体船员；全体人员 
+torpedo tube
+鱼雷发射管
+maximum speed
+ 最高速度
+maximum cruise speed
+最大巡航速度
+maximum road speed
+最大公路速度
+maximum range
+最大射程；最大航程
+maximum flying height
+最大飞行高度
+height
+高度
+width
+宽度
+weight
+重量
+anti-tank weapon 
+反坦克武器
+GPS receiver
+全球定位系统接收器
+helmet
+头盔
+mortar
+迫击炮
+tracksuit
+运动服；运动套装
+radio
+无线电
+anti-armour missile
+反装甲导弹
+communications system 
+通信系统
+identification friend or foe
+敌我识别; 敌我识别装置
+compass 
+指南针，罗盘
+armament load
+武器负载
+long-range missile
+远程导弹；洲际弹道导弹
+nuclear warhead
+核弹头
+atomic bomb
+原子弹
+non-moveable
+不可移动的
+portable machine gun
+手提机枪
+radar
+雷达，无线电探测器
+radar station
+雷达站
+Aircraft飞机
+aerial vehicle
+航空器；飞行器
+aircraft type
+机种
+aircraft version
+机型
+aviation balloon
+航空气球
+airship
+飞艇
+combat aircraft
+作战飞机
+air command aircraft
+空中指挥机
+military transport aircraft
+军用运输机
+carrier aircraft
+载机
+supersonic aircraft
+超声速飞机
+subsonic aircraft
+亚声速飞机
+propeller-driven aircraft
+螺旋桨飞机
+jet aircraft
+喷气式飞机
+amphibian aircraft
+水陆两用飞机
+target aircraft
+靶机
+delta-wing aircraft
+三角翼飞机
+swept-wing aircraft
+后掠翼飞机
+swing-wing aircraft
+变后掠翼飞机
+stealth aircraft
+隐身飞机
+fighter/battleplane
+歼击机（战斗机）
+attack plane/attacker
+强击机（攻击机）
+dive bomber
+俯冲轰炸机
+pursuit plane
+驱逐机 （例如：美国P-51 “mustang” 野马）
+fighter-bomber
+战斗轰炸机（例如：F-111）
+stealth bomber
+隐形轰炸机
+AWACS/early-warning aircraft
+预警机
+gunship
+武装直升机
+antisubmarine aircraft
+反潜机
+torpedo planes
+鱼雷机
+electronic countermeasures aircraft
+电子对抗飞机
+interceptor
+截击机
+light bomber
+轻型轰炸机
+strategic bomber
+战略轰炸机
+electronic fighter
+电子战（飞）机
+high-speed reconnaissance plane
+高速侦察机
+anti-submarine patrol aircraft
+反潜巡逻机
+trainer aircraft/trainer
+教练机
+tailless aircraft
+无尾飞机
+power glider
+动力滑翔机
+hydroplanes /seaplane
+水上飞机
+UAV
+无人机
+VTOL ( vertical take-off and landing)   aircraft
+垂直/短距起降飞机 
+special operations aircraft
+特种作战飞机
+adjustable wing plane
+可变翼机
+mine-sweeping helicopter
+扫雷直升机
+capital tank
+主战坦克
+medium tank
+中型坦克
+amphibious tank
+水陆两用坦克；两栖坦克
+flame-throwing tank
+喷火坦克
+bridge tank
+架桥坦克
+mine-sweeping tank
+扫雷坦克
+tankdozer
+坦克推土机
+reconnaissance tank
+侦察坦克
+turretless tank
+无炮塔坦克
+recovery tank
+坦克牵引车
+anti-tank obstacle
+反坦克障碍物
+gunner
+炮手
+tank soldier
+坦克兵
+muzzle
+枪口；炮口
+gun sight
+瞄准镜
+reserve fuel tank
+备用油箱
+driving wheel
+主动轮
+shield
+遮护板
+loading wheel
+负重轮
+inducer
+诱导轮
+Aircraft Structure
+飞机结构
+low wing
+低翼
+high wing
+高翼
+delta wing
+三角翼
+forward swept
+前掠的
+back swept
+后掠的
+nose
+机头
+fuselage
+机身
+wing
+机翼
+wing span
+翼展
+flap
+襟翼
+aileron
+副翼
+slat
+缝翼
+wingtip
+翼尖
+panel
+翼片
+stabilizer
+安定面
+elevator
+升降舵
+vertical tail (wing) 
+垂尾
+empennage/tail
+尾翼
+rudder
+方向舵
+landing gear
+起落架
+power plant
+动力装置
+turbine
+涡轮
+propjet
+涡轮螺浆喷气发动机
+turbojet
+涡轮喷气发动机   
+turbofan engine
+涡扇发动机
+cockpit
+座舱
+windshield
+风挡
+pressurized cabin
+气密舱
+emergency door
+应急舱门
+control surface
+操纵面
+de-icing system/anti-icing system
+防冰系统；除冰系统
+integral fuel tank
+整体油箱
+skin
+蒙皮
+aircraft pod
+飞机吊舱
+air refueling
+空中加油
+ejection seat
+弹射座椅
+life-saving parachute
+救生伞
+anti -G suit
+抗荷服
+
+Air Force Tactics空军战术
+lead aircraft
+长机
+wing aircraft
+僚机
+air interception
+空中截击
+dogfight
+空中格斗
+over-the-horizon air combat
+超视距空战
+ground-to-air combat
+地空战斗；地对空作战
+air-to-ground combat
+空地战斗；空对地作战
+airborne combat
+空降战斗
+air operations
+空中作战
+aircraft fleet
+机群
+aircraft on alert
+作战值班飞机
+combat sortie
+战斗出动
+airfield alert
+机场待战
+air alert
+空中待战
+close formation
+密集队形
+loose formation
+疏散队形
+air formation
+空中编队
+air rendezvous 
+空中会合
+batch
+批次
+sortie
+架次
+rate of aircraft combat loss
+飞机战损率
+combat flying hours
+战斗飞行时间
+air cover
+空中掩护
+air blockade
+空中封锁
+air interdiction
+空中遮断
+air patrol
+空中巡逻
+air escort
+空中护航
+air free-lance
+空中游猎
+air search
+空中搜索
+target approach
+空中接敌
+air acquisition
+空中截获
+air attack
+空中攻击
+air strike
+空中强击
+precision-guided bombing
+精确制导轰炸
+carpet bombing
+地毯式轰炸
+air support
+空中支援
+ejection bailout
+弹射跳伞
+disorientation
+迷航
+prohibited airspace
+空中禁区
+formation flight
+编队飞行
+visual flight
+目视飞行
+instrument flight
+仪表飞行
+aerobatic flight
+特技飞行
+dive
+俯冲
+zoom
+跃升
+spin
+螺旋
+stall
+失速
+go-around
+复飞
+test flight
+试飞
+flight speed
+飞行速度
+flight cruising speed
+飞行巡航速度
+flight altitude
+飞行高度
+flight safety altitude
+飞行安全高度
+flying day
+飞行日
+flying preparation
+飞行准备
+aircraft trail
+飞机尾迹
+Military Airfield军用机场
+permanent airfield 
+永备机场
+field airfield
+野战机场
+forward airfield
+前沿机场
+airfield in depth
+纵深机场
+airfield elevation
+机场标高
+airfield cleared area
+机场净空区
+highway runway
+公路跑道
+forced landing site
+迫降场
+emergency takeoff 
+应急起飞
+runway
+跑道
+taxiway
+滑行道
+linking taxiway
+联络道
+tow-way
+拖机道
+safety zone
+保险道
+parking apron
+停机坪
+landing T
+T字布
+aircraft arresting facilities
+飞机拦阻设施
+flight command tower
+飞行指挥塔台
+aircraft cave shelter
+飞机洞库
+aircraft shelter
+飞机掩蔽库
+aircraft revetment
+飞机掩体
+aircraft dispersal area
+飞机疏散区
+aircraft camouflage
+飞机伪装
+aviation equipment maintenance
+航空机务
+aircraft maintenance
+飞机维护
+periodic maintenance
+定检
+maintenance day
+机械日
+aircraft handover
+飞机交接
+aircraft protection
+飞机防护
+aircraft boresighting
+飞机校靶
+aircraft rescue
+飞机抢救
+aviation material
+航材
+aviation spare parts
+航空备件
+“four stations”
+“四站”
+aviation division
+航空兵师
+aviation regiment
+航空兵团
+flight group
+飞行大队
+flight squadron
+飞行中队
+aircraft maintenance group
+机务大队
+aircraft maintenance squadron
+机务中队
+air crew
+空勤组
+ground crew
+地勤机组
+air station
+场站
+intercontinental missile
+洲际导弹
+medium-range missile
+中程导弹
+cruise missile
+巡航导弹
+surface to-surface missile
+地对地导弹
+surface-to-air missile
+地对空导弹
+ship-to-air missile
+舰对空导弹
+air-to-air missile
+空对空导弹
+air-to-surface missile
+空对地导弹
+anti-radiation missile
+反辐射导弹
+anti-ship missile
+反舰导弹
+anti-submarine missile
+反潜导弹
+guidance device
+制导装置
+launching tube
+发射管
+anti-ballistic missile
+反弹道导弹
+launching tower
+发射塔
+multistage rocket
+多级火箭
+hydrogen bomb
+氢弹
+shock wave/blast wave
+冲击波
+joint exercise 
+联合军演
+multinational exercise 
+多国军演
+airborne assault
+空降突袭
+parachutist
+伞兵
+amphibious assault
+两栖突击
+Command Post Exercise (CPX)
+指挥所演习
+Exercise Bright Star
+“光明星”演习
+desert
+沙漠
+draw
+排水渠；凹坡
+ford
+浅滩
+valley
+山谷
+spur
+山嘴；尖坡；凸坡
+wood
+树林
+jungle
+丛林
+scrub
+灌木丛
+marsh
+沼泽、湿地
+peak
+山顶
+oasis
+绿洲
+pass
+山坳通道；山口
+ravine
+深谷
+ridge
+山脊
+sand dune
+沙丘
+saddle
+山凹，鞍部
+mosque
+清真寺
+wadi
+干谷、旱谷
+gully
+水沟
+drain
+排水管；排水沟
+stream
+小溪
+crest
+山峰
+summit
+山顶
+Ground forces
+地面部队
+Air forces
+空军部队
+Naval forces
+海军部队
+grid
+网格
+coordinate
+坐标
+square
+方格
+grid line
+坐标线
+reference number
+参考数字
+four-figure references
+四个数字的参考坐标
+west-east coordinate
+东西轴坐标
+left-right coordinate
+左右方向坐标
+south-north coordinate
+南北轴坐标
+bottom-up coordinate
+上下坐标
+six-figure references
+六个数字的参考坐标
+the communications center
+通讯中心
+enemy tank
+敌军坦克
+mine
+地雷
+friendly forces
+友军
+current location
+目前的方位
+objective
+目标
+firing position
+发射方位
+aerial
+天线
+enemy position
+敌军方位
+minefield
+布雷区；雷场
+protective minefield
+保护性雷场
+landing zone
+着陆区
+location
+地点
+telegraph wire
+电话线
+in the vicinity of
+在……附近
+to the rear of
+朝……后方
+right flank
+右翼
+left flank
+左翼
+in the middle
+在……中部
+at the rear
+在……后方
+200-meter gap
+200米间距
+in the interior
+在内陆
+to deploy
+部署；布局
+to check
+检查
+to move
+行动
+to assault
+突击、袭击
+to execute the assault
+执行突击任务
+to provide security
+提供安全保障
+to provide protection
+提供防护
+to land
+着陆
+to organize the movement
+组织行动
+Crash Landing
+ 迫降，紧急着陆
+air crash
+飞机失事
+co-pilot
+副驾驶
+injured
+受伤的
+pilot crew 
+机组工作组
+survivor
+幸存者
+landmark
+地面标志；地标
+obstacles
+障碍物
+direction of wind
+风向
+surface of LZ area
+着陆地面
+to take off
+起飞
+passenger
+乘客
+unconscious
+无意识的
+Celsius
+摄氏度
+maximum temperature
+最高气温
+minimum temperature
+最低气温
+Action Express
+行动快车
+African Eagle
+非洲雄鹰
+Air Warrior
+空中勇士
+Amazon Condor
+亚马逊秃鹰
+Central and Eastern Europe
+中东欧演习
+Combined Endeavor
+联合努力
+Desert Punch
+沙漠打击
+Joint Action
+联合行动
+Red Flag
+红旗
+Snow bird
+雪鸟
+terrain-aided navigation
+地形辅助导航
+terrain altitude
+地面海拔高度
+terrain analysis
+地形分析
+terrain analysis radar
+地形分析雷达
+terrain appreciation
+地形判断
+terrain avoidance
+回避地面障碍物系统
+terrain clearance indicator
+离地高度仪
+terrain clutter
+地形散射干扰
+terrain display
+地形显示
+terrain following radar
+地形跟踪雷达
+terrain objective
+地形目标
+plateau
+高原
+cliff
+悬崖
+downs
+开阔的丘陵地
+elevation
+高地
+sheer
+陡峭的
+snow line
+雪线
+uplands
+高地
+foothill
+山麓；小丘
+Everest
+珠穆朗玛峰
+highland
+高地
+hillock
+小丘
+hillside
+山腰
+hilltop
+山顶
+hilly
+丘陵的
+hummock
+圆丘；小丘
+knoll
+土墩
+sierra
+锯齿山脊
+slope
+山坡
+volcano
+火山
+prairie
+大草原
+bush
+草丛；灌木丛
+heath
+石楠
+heathland
+石楠丛生的荒野
+marginal land
+边际土地
+meadow
+草地
+moor
+沼泽；荒野
+moorland
+高沼地
+pasture
+牧场
+steppe
+大草原
+wasteland
+荒漠
+wilderness
+荒地（大量的）
+delta
+三角洲
+depression
+洼地
+atlas
+地图册
+chart
+图纸
+contour
+等高线
+coastline
+海岸线
+geolocation
+地理位置；定位
+Global Position System (GPS)
+全球定位系统
+meridian
+子午线
+plot
+图表（表示两个量变关系的）
+relief map
+地势图
+sketch map
+草图；示意图
+time zone
+时区
+diagram
+图表
+Organization 组织架构
+Headquarters Peacekeeping Force (HQ PKF) 
+维和部队司令部
+area of operation(AO)
+作战区域；行动区
+Force Commander (FC)
+部队司令；部队长；部队指挥官
+Head of Mission (HOM)
+（维持和平行动）特派团团长
+UN Secretary General 
+(UN SG)
+联合国秘书长
+UN Security Council (UNSC)
+联合国安理会
+Sector Commander (SECTOR CMDR)
+战区司令
+Contingent Commander
+分队指挥官
+Department Of Peacekeeping Operation (DPKO)
+联合国维持和平行动部
+chain of command
+指挥系统；指挥关系；指挥链
+under the command of 
+由……指挥
+to be commanded by
+由……指挥
+responsible to 
+对……负责
+in charge of
+负责；主管
+to report to
+向……报告 
+UNMO (United Nations Military Observers)
+联合国军事观察员
+civilian peacekeeper
+文职维和人员
+medical personnel
+医务人员
+diplomatic personnel
+外交人员
+human rights observer 
+人权观察员
+expert
+专家
+contingent troops
+分遣部队
+police
+警察
+staff officer
+参谋军官
+UN volunteer
+联合国志愿者
+protection force
+保护部队（联合国）；安全部队
+peacekeeping
+维持和平
+peacekeeping force
+维持和平部队
+Peacekeeping Operation(PKO)
+维持和平行动
+Peace Support Operations 
+和平支援行动
+peacemaking
+促成和平
+peacebuilding
+建设和平；缔造和平
+peace enforcement
+强制和平
+peace treaty
+和平协议
+humanitarian assistance
+人道主义援助
+humanitarian aid
+人道主义援助
+truce
+休战
+ceasefire
+停火
+ceasefire agreement(CFA)
+停火协议
+ceasefire line (CFL)
+停火线
+buffer zone
+缓冲区
+area of separation
+隔离区
+refugee
+难民
+refugee camp
+难民营
+repatriation
+遣送回国；归国
+alert state
+警戒状态
+election
+选举；当选；选择权
+conflict
+冲突，矛盾；斗争；争执
+cargo manifest
+载货清单；运货单
+smuggle
+走私；偷运
+custody
+拘留；羁押
+blast wall
+防爆墙
+anti-sniper screen
+防狙击屏障
+sangar
+散兵壕
+sangar with sandbags
+沙袋战壕；沙袋掩体
+barbed wire
+带刺铁丝网（尤用作围栏）
+checkpoint 
+检查站；关卡
+searchlight  
+探照灯；探照灯光
+tank stops
+坦克路障
+parking
+停车处；停车 
+perimeter fence
+外围围墙
+compound
+（有防护的）场地； 营区
+manned by guards
+有卫兵驻守的
+Rocket Propelled Grenade (RPG)
+（肩扛式）火箭筒
+vehicle checkpoint (VCP)
+车辆检查站；车辆检查点
+observing post
+观测哨；瞭望台
+to supervise
+监督；管理；指导
+to monitor
+监控；监视
+to demobilize
+遣散；使复员；使退伍
+to disarm
+解除武装；缴械
+take sb. into custody
+拘留某人；羁押某人
+to demine
+排雷
+deminer
+排雷人员（工兵）
+demining
+排雷
+landmine
+地雷
+anti-personnel (AP) mine
+反步兵地雷；防步兵地雷
+anti-tank (AT) mine
+反坦克地雷；防坦克地雷
+vegetation
+ 植物；植被 
+tripwire
+（地雷）绊线；地雷拉发线
+booby trap
+饵雷；诡雷
+body armour 
+防弹服；排雷服
+visor
+防护罩；（盔甲）面罩
+probe
+探针；探测器 
+prodder
+铲子；刺棒 
+metal detector
+金属探测器
+red triangle
+红色三角铁
+protective clothing
+防护罩；防护衣
+unexploded ordnance (UXO)
+未爆弹药；未爆炸物
+ 
+Peacekeeping Tasks 维和任务
+to clear mines
+排雷
+to demobilize soldiers
+复员士兵；遣散人员
+to deploy in a buffer zone
+在缓冲区部署力量
+to provide medical support
+提供医疗支援
+to help refugees go home
+帮助难民返家
+to monitor ceasefire agreement
+监督停火协议（的签署）
+to organize elections
+组织选举
+to patrol border areas
+边境巡逻
+to sweep for mines
+扫雷
+to disarm soldiers 
+解除武装；使士兵缴械
+to supervise elections
+监督选举
+Principles
+ 规则
+rules of engagement
+交战规则
+code of conduct
+行为准则
+fair
+公平的；直接的
+patient
+有耐心的；能忍耐的
+sensitive
+善解人意的；敏感的 
+tolerant
+宽容的；容忍的
+authorization
+授权；批准
+religion
+宗教；宗教信仰
+conduct
+n. 行为；举动；品行
+v. 遂行（作战任务）；指挥；管理
+self-defense
+自卫；[法]正当防卫
+engagement
+交战；约定
+hostile
+敌对的；怀敌意的
+human rights
+人权
+PKO Related Organizations 
+维和行动相关的部门和组织
+Blue Beret/Blue Helmets 
+蓝色贝雷/ 蓝盔（部队）
+White Helmets
+白盔，国际人道主义救援志愿者快速反应分队
+UN Civilian Police Division
+联合国维和行动民事警察司
+UN Refugee Agency
+联合国难民署
+UNCIVPOL (United Nations Civilian Police)
+联合国维和民事警察
+demilitarized zone
+非军事区
+Combined Rescue Coordination Center (CRCC)
+联合救援协调中心
+UN Charter
+联合国宪章
+sanctuary
+避难所
+arbitrator
+仲裁人
+humanitarian (affairs) advisor
+人道事务顾问
+humanitarian coordinator
+人道事务协调员
+humanitarian emergency
+人道主义紧急事件；人道主义危机
+humanitarian mission
+人道主义（救援）任务；人道主义（救援）行动
+contingent (CON)
+分遣队
+contingent rotation officer 
+分遣队轮换军官
+contingent-owned equipment (COE)
+分遣队自有装备
+aide-de-camp (ADC)
+副官；随从
+Emergency Response Team
+应急反应组（维和人道主义救援）
+doctors without border 
+（非政府国际组织的）无国界医生
+voluntary contribution-in-kind
+自愿出兵（无需联合国提供一切费用）
+human shield
+人盾（冲突派别将非武装人员扣作人质）
+Preventive Diplomacy
+预防性外交
+backchannel diplomacy
+秘密外交
+resilient
+适应力强的；有弹力的
+impartiality
+中立；公平；无偏见
+commitment
+投入战斗；派出执行任务
+committed forces
+投入战斗的部队
+belligerents
+交战国（方）
+mediator
+调停人；调停国
+to abolish 
+废除；废止；取消；革除
+sanction
+制裁
+troop withdrawal
+撤军
+border monitoring
+边界监视
+to breach
+（进入）突破口；攻破；排除（地雷）
+mandate
+命令；指令；要求；授权
+mandatory cease-fire call
+强制停火呼吁
+mandatory arbitration
+强制仲裁
+blockage
+封锁
+Border Crossing Point (BCP)
+过境点
+cease-fire violation (CFV)
+违反停火协议事件
+access point
+缓冲区过境点（检查站）
+detachment
+分遣；支队；特遣小分队；分遣队
+area of interest (AOI)
+关心地域
+area of responsibility (AOR)
+责任区
+armistice demarcation line (ADL)
+停战分界线
+demilitarized zone (DMZ)
+非军事区
+weapon exclusion zone (EZ)
+武器禁区
+no-fly zone (NFZ)
+禁飞区
+cease-fire violation (CFV)
+违反停火协议事件
+perimeter defenses
+环形防御工事
+peace-restoration and conflict-mitigation operation
+恢复和平与冲突缓解行动
+convoy
+车队；船队；护送；护航
+armed escort
+武装护送
+shipment
+（从海路、陆路或空运的）一批货物
+strip map
+带状地形图
+start point (SP)
+出发点；起点
+reporting point
+报告点
+release point (RP)
+交付点
+route
+路线
+estimated time of arrival (ETA)
+预计到达时间
+humanitarian aid
+人道主义救援
+petrol station
+加油站
+highway
+公路
+junction
+岔道口
+roundabout
+环状交叉路；环岛
+exit
+出口
+signpost
+ 路标，指向标；指示牌
+service station
+服务站；加油站
+roadblock
+（尤指政府为检查车辆设置的）路障；关卡；障碍
+restricted military zone
+军事管制区
+en route 
+在途中
+to issue
+发配；发给
+refugee camp
+难民营
+valid
+有效的；正当的；有充分根据的
+confrontational
+挑衅的；对抗的
+under the terms of
+按……条款规定
+authority
+权；权力
+authorization
+（被）授权；（被）批准
+tactful
+言行得体的；不得罪人的；能赢得好感的
+hatch
+舱门；（货车的）车厢门；货舱开口
+to close off
+封锁
+refueling
+中途加油
+towing vehicle 
+拖曳车；牵引车
+accommodation
+住宿
+situation report (SITREP)
+情况报告
+control station
+控制站
+adjustable wrench
+活（动）扳手；可调扳手
+jack
+千斤顶
+pliers
+钳子；老虎钳
+screwdriver
+螺丝刀；改锥
+tape
+（纸或塑料的）胶条；胶带
+spanner
+扳手；扳钳
+tape measure
+卷尺
+flat (battery)
+（蓄电池）无电的；电力不足的
+flat (tyre)
+（尤指轮胎等膨胀物因刺穿而）漏气的；没气的
+to charge
+给（电池，电池装置）充电
+spare tyre
+备用轮胎
+to put some air in
+充气；打气
+windscreen
+挡风玻璃
+ambush
+埋伏；伏击；伏兵
+reinforcement
+援军；增援部队；增援力量
+to cock
+扳起（枪的）击铁（准备射击）
+discharge
+开枪
+insurgent
+造反者；叛乱者
+rebel
+n. 叛乱分子
+v. 反叛；造反
+naval escort taskforce
+海军护航特遣队
+Gulf of Aden escort
+亚丁湾护航
+1st Escort Task Group
+第一批护航编队
+DDG-169 Wuhan (Type 052B destroyer)
+导弹驱逐舰武汉舰（169号）
+AOR-887 Weishanhu
+ (Type 903 replenishment ship)
+综合补给舰微山湖舰（887号）
+FFG-570 Huangshan (Type 054A frigate)
+导弹护卫舰黄山舰（570号）
+LPD-998 Kunlunshan 
+(Type 071 amphibious transport dock)
+两栖船坞运输舰昆仑山舰（998号）
+auxiliary vessel
+辅助船
+guided-missile frigate 
+导弹护卫舰
+depot ship
+补给舰
+ship-borne helicopter
+舰载直升机
+to ward off
+避开
+pirate
+海盗
+privateer
+武装民船船主（或船员）（常被看作海盗）
+anti-piracy operation
+反海盗行动
+army port
+军港
+to dispatch
+派遣
+to hijack
+劫持
+evacuation of nationals
+撤侨
+maritime combat
+海上作战
+Shared Awareness and Deconfliction (SHADE)
+信息共享与避免冲突组织
+humanitarian aid convoy
+人道主义援助车队
+truckers’ convoy 
+卡车运输车队
+storm convoy 
+风暴护航车队
+Special Convoy Rights
+特别护航权
+The Highway Code
+公路法
+honorary title
+荣誉称号
+to rev up the engine
+踩油门
+to put the car in gear
+挂档
+pull-in
+停靠带
+to back a car  
+倒车
+to bear left/right
+（在岔路口）左拐或右拐
+to take a left/right turn
+（在十字路口或交叉路口）向左或右拐弯
+to hog the road
+占道行驶
+motorway (U.S. super highway)
+高速公路 
+slow lane/inside lane
+慢车道（内道）
+fast lane/outside lane
+快车道（外道）
+bypass
+绕城公路
+fly-over
+从一条公路上跨过的公路或桥梁
+underpass
+从一条公路下面穿过的一部分公路
+cloverleaf
+立交桥
+dead end
+中断的公路
+pile-up
+连环车祸
+head-on collision
+迎头相撞
+write-off 
+（将车）报废
+to commit a hit-and-run
+肇事逃逸罪
+third party insurance
+第三方责任险
+Patrol Kit
+巡逻装备
+bayonet 
+刺刀
+flak jacket 
+防弹衣
+kevlar helmet
+凯夫拉头盔
+webbing 
+背包带
+mess tin
+饭盒
+ammo pouch
+弹药袋
+sleeping bag 
+睡袋
+patrol pack 
+巡逻背包
+pistol holster 
+手枪枪套
+waterproof
+防水的
+water bladder
+水袋
+firesteel lighter
+点火器
+super tool
+多功能军刀
+camouflage
+伪装；迷彩
+water carrier
+盛水的容器
+observation post
+观察哨
+border
+边界
+calm
+平静的
+hostile
+敌对的
+volatile
+不稳定的
+centigrade
+摄氏
+degree
+度
+irregular force 
+非正规军
+crowd
+人群
+suspicious
+可疑的
+beard
+胡须
+medium-height
+中等身高
+middle-aged
+中年的
+stove
+火炉
+militia
+民兵
+immediate vicinity
+临近地区
+daylight
+白天
+sniper
+狙击手
+deadly force
+杀伤性武器
+in immediate danger
+危在旦夕
+to authorise
+授权
+transmission
+传输
+affirmative
+肯定的
+negative
+否定的
+roger
+收到
+infantry
+步兵
+comply
+遵从
+wilco (will comply)
+一定执行；遵命；我会照办
+read
+听到
+base
+基地
+radio check 
+无线电通信检测
+close down
+关闭
+mobile
+（部队）开跋
+acknowledge
+请认收
+proceed
+前进
+evacuation
+疏散
+football stadium
+足球场
+ambulance
+救护车
+casualty
+伤员
+Suspicious Situations
+可疑情况
+Return to base (RTB)
+返航
+Encounter Time At (ETA)
+接敌时间
+Prison of War (POW)
+战俘
+Combat Air Patrol
+战斗空中巡逻
+designator
+军官代号；指示器
+gateway
+关口
+littoral
+沿岸的
+marine mine
+水雷
+relief
+换防
+round
+（弹药的）发数
+shell
+炮弹
+live shell
+未爆弹；实弹
+smoothbore
+滑膛
+armed blockade
+武装封锁线
+commando
+突击队
+gunner
+炮手
+air assault /attack /barrage /raid /strike
+空袭
+captive
+俘虏
+collateral damage
+间接破坏；附带损伤
+comprehensive sanction
+全面制裁
+cordon
+哨兵线
+disarray
+混乱
+radical
+激进分子
+retaliatory strike
+反击
+suicide attack
+自杀式袭击
+to envelope
+包围
+to fight street-by-street
+打巷战
+trench
+战壕
+inspector
+检查人员
+weapons of mass destruction/murder
+大规模杀伤性武器
+veteran
+退伍军人
+Medicines Sans Frontiers (MSF)
+无国界医生
+Missing in Action (MIA)
+失踪士兵；战斗失踪（人员）
+lethality
+杀伤力
+exile
+流亡（的人）
+food ration
+食物配给
+martyr
+烈士
+martyrdom
+殉难
+toll
+伤亡人数
+trauma
+创伤
+Emergencies
+突发状况
+anarchy
+无政府状态
+bombardment
+轰炸
+to besiege
+包围
+tsunami
+海啸
+volcanic eruption
+火山爆发
+El Nino
+厄尔尼诺现象
+mudslide
+泥石流
+avalanche
+雪崩
+drought
+干旱
+hurricane
+飓风
+plague
+瘟疫
+tornado
+龙卷风
+sandstorm
+沙尘暴
+typhoon
+台风
+famine
+饥荒
+overweight 
+胖的
+plump
+丰满的
+thin
+瘦的
+medium height
+中等身材
+tubby
+矮胖的
+plain
+相貌平平的
+blonde
+金发
+curly/wavy hair
+卷发
+bobbed
+短卷发的
+freckle
+雀斑
+double-chinned
+双下巴的
+smartly-dressed
+衣着得体的
+neatly-dressed
+衣着整洁的
+scruffily-dressed
+衣着不整洁的
+bald
+秃顶的
+tanned
+皮肤黝黑的
+copy 
+明白
+correction 
+更正
+say again 
+请重复
+confirm (through) 
+证实
+all clear 
+周围安全
+break 
+还有
+go ahead 
+请讲
+need back up 
+需要支援
+cover me 
+掩护我
+please advise 
+请指示
+request air support 
+请求空中支援
+hid in deck 
+卧倒
+KIA (Killed in Action)
+阵亡
+MIA (Missing in Action)
+失踪
+go forward 
+前进
+fall back 
+撤退
+lock and load 
+子弹上膛
+reloading 
+装弹
+danger close 
+敌人在500 米范围内
+incoming 
+敌人来了
+medic 
+呼叫医护兵
+stay sharp 
+提高警惕
+we’ve got company 
+附近有敌人
+hit the flank 
+攻击侧翼
+mission complete 
+任务完成
+IED (improvised explosive device)
+临时爆炸装置
+advance 
+前进
+approaching 
+接近
+hold your fire 
+不要开火
+get in position 
+进入指定位置
+report in 
+报告情况
+enemy spotted 
+发现敌人
+enemy down 
+消灭敌人
+hold this position 
+占据这个位置
+regroup team 
+重组队伍
+green zone 
+安全区
+hostile 
+敌对目标
+friendly 
+友军
+cease fire 
+停火
+interrogating 
+询问
+equip
+装备，配备
+mortar
+迫击炮
+anti-tank weapon
+反坦克武器
+artillery
+火炮；大炮；炮队
+backstop
+挡弹墙
+Armoured Brigade
+装甲旅
+Cavalry Regiment
+骑兵团
+Airborne Corps
+空降部队
+Infantry Division
+步兵师
+Signal Regiment
+信号团
+Artillery Regiment
+炮兵团
+logistics
+后勤
+ammunition
+弹药；军火
+ear defenders
+护耳器
+ammunition point
+弹药点
+firing point
+燃点；着火点；自燃发火点；起燃点
+target
+目标；（攻击的）对象；靶子
+down range
+下靶场
+live round
+实弹；与教练弹相对，具有实际杀伤力的弹药
+firing line
+射击线
+range flag
+靶场警戒旗
+personal weapon
+个人武器
+waterproof poncho
+防水雨披
+cleaning kit
+清洁套装
+personal respirator
+个人呼吸器
+tactical
+战术的；策略的；善于策略的
+strength
+兵力
+administration
+管理；行政
+sequence
+序列
+fire support asset
+火力支援装备
+battle group
+战斗群
+sentry guard
+哨兵守卫
+ration
+配给量；配给食物
+to remit
+减轻
+operational effectiveness
+作战效能
+dispatch
+分派；急件
+armoury
+兵工厂；军械库
+standing order
+作战命令
+base camp
+大本营
+campsite
+营地
+compass bearing
+罗盘方位角
+drop off point
+下车地点
+Estimated Time of Departure (ETD)
+预计出发时间
+garrison
+要塞；卫戍部队；驻军（驻防区）
+Shooting 
+射击
+sharpshooter
+神枪手　
+running target
+移动靶
+standing position
+立姿　　
+kneeling position
+跪姿
+prone position
+卧姿
+shot
+发
+string
+组
+point
+环
+make the bull’s-eye
+打中靶心
+miss
+脱靶　
+load
+装弹　
+aim
+瞄准
+sight alignment
+三点成一线
+fire
+击发
+hit
+命中　
+firearm
+枪支
+handgun
+手枪总称　
+small-bore pistol
+小口径手枪
+shotgun
+猎枪
+clip
+弹夹
+breech
+后膛（枪炮的）
+chamber
+弹膛药室
+bandoleer
+挎在肩上的子弹袋
+lead
+子弹
+pellet
+小弹丸；散弹
+slug
+子弹
+ball
+炮弹；弹丸
+fusillade
+快速；连续射击
+burst
+一阵射击；爆炸
+bullet
+枪弹；子弹
+salvo
+炮火齐射；齐发礼炮
+ricochet
+回跳；跳弹
+dud
+哑弹
+plug
+枪击
+volley
+齐发；齐射；群射
+accelerator
+（枪机）加速器
+accuracy
+准确度
+ACOG (Advanced Combat Optical Gunsight)
+先进光学战斗瞄准具
+action shooting
+战斗射击
+adjustable choke
+可调式收束器
+adjustable sight
+可调式瞄准具
+adjustable trigger
+可调式扳机
+annealing 
+退火处理
+AP (Armor Piercing)
+穿甲弹
+assault weapon
+攻击性武器
+autoloading
+自动装填
+automatic rifle 
+自动步枪
+automatic safety
+自动保险
+BAC (Bindon Aiming Concept)
+宾登式瞄准法
+ballistics
+弹道学
+barrel attachments
+枪口附件
+blank
+空包弹
+blinker
+挡风片
+bolt
+枪栓
+bolt handle
+枪栓拉柄
+brass
+弹壳
+buttstock
+枪托
+case head
+壳头；弹壳头
+chamber pressure
+膛压
+cleaning rod
+通枪条
+clip
+弹夹
+feed
+上膛
+Parachute Regiment
+伞兵团
+airborne force
+空降部队；空降兵
+fort
+堡垒（要塞或军营）
+naval station
+海军基地；军港
+air force base
+空军基地
+RAF Brize Norton 
+英国皇家空军布莱兹诺顿空军基地  
+Royal Air Force Station
+英国皇家空军基地
+Operational Parachute Battalion
+作战伞兵营
+Army Training Regiment 
+军队训练团
+military parachutist wings
+军用伞翼
+emblem
+标志、徽章
+permanent military installations 
+永久性军事设施
+SA80 
+英国无托结构突击步枪（英军统称为L85A1）
+35 lb pack
+35磅背包
+radio headset 
+无线电耳机
+extra ammunition 
+额外弹药
+magazine pouch
+弹夹袋
+individual weapon 
+单兵武器
+digging tool 
+挖掘工具
+spare clothes 
+备用衣服
+combat ration 
+作战口粮；军用压缩干粮
+rucksack 
+（帆布）背包
+Mark 6 combat helmet 
+马克6战斗头盔
+calibre
+（管子、枪炮的）口径；内径；（子弹的）直径；弹径
+30-round magazine 
+30发子弹的弹匣
+rate of fire 
+发射速度；射击速率
+effective range 
+有效射程；有效范围
+barrel length 
+弹筒长度；枪管长度
+G-36 assault rifle
+G-36突击（自动）步枪
+Armalite-15 
+阿玛莱特步枪-15
+rifle grenade 
+枪榴弹
+cocking handle 
+机柄
+change lever 
+变速杆；（轻兵器的）快慢机；射击选择钮
+magazine catch 
+弹匣卡榫
+sights
+瞄准器
+safety catch
+(枪上的)保险栓；保险机
+muzzle 
+枪口；炮口
+to strip 
+拆卸；拆开
+chamber 
+枪膛；（机器内的）腔；室
+to eject the round
+弹出子弹；喷射子弹
+Pre-parachute selection（PPS）
+跳伞预前选拔，又名为“降落伞前选拔”，由Pegasus公司(P Coy)运营
+Combat Infantryman’s Course 
+作战步兵课程
+fieldcraft 
+野外作战技能
+cross-country run 
+越野跑；越野赛
+assault course
+（尤指士兵的）突击训练场；应对训练，突击培训课程
+pass out parade 
+毕业阅兵典礼；结业阅操
+fighting in a built-up area(FIBUA) 
+在建筑物密集区战斗
+NBC test 
+核生化考核
+physical training instructor 
+体能训练指导员
+range officer 
+靶场负责人
+unit NBC instructor 
+分队核生化技能指导员
+the fitness test 
+体能考核
+PTIs 
+体能训练指导员
+Colour Sergeant
+上士
+installation
+设备；设施；装置
+range 
+靶场
+the NBC centre 
+核生化中心
+cargo net 
+装卸网；吊货网
+ditch 
+沟渠；壕沟
+ramp 
+斜坡；坡道
+parade ground 
+阅兵场；练兵场
+tour of duty 
+任期；服役期；值班
+temporary duty (TDY) 
+临时职务；临时职责
+Recruit Training course
+新兵训练课程
+Section Commander’s Battle Course 
+分队长作战训练课程；班教练课程
+post
+（军队的）派驻；派遣；职位
+CV (Curriculum Vitae) 
+简历
+the division depot
+师部仓库；师部补给站
+motor transport officer 
+汽车运输干事
+profile 
+人物简介；概述
+the Falklands War 
+福克兰群岛战争（即马岛战争）
+Star City 
+俄罗斯星城
+the Soviet Air Force 
+苏联空军
+the Soviet Air Force Base in the Arctic 
+苏联驻北极空军基地
+a test pilot 
+试飞员
+cosmonaut  
+（俄）宇航员（等于astronaut）
+Falklands/Malvinas War 马岛战争
+The Malvinas War 
+马尔维纳斯群岛战争，简称马岛战争
+viscount 
+子爵（英国贵族，低于伯爵而高于男爵）
+Royal Marine barracks 
+皇家海军军营
+Governor’s House 
+总督府；州长（市长）官邸
+amphibious vehicle 
+两栖交通工具；水陆两用车辆；两栖战车
+Port Stanley 
+斯坦利港（福克兰群岛首府）
+medium-distance bomber
+中程轰炸机
+the runway 
+跑道
+to recall their fighter aircraft 
+收回（召回）战斗机
+missile strike 
+导弹袭击
+nuclear submarine 
+核潜艇；核动力潜艇
+British Special Forces 
+英国特种部队
+to establish a beachhead
+建立滩头阵地
+San Carlos
+[地名] [赤道几内亚] 圣卡洛斯（卢巴的旧称）
+Goose Green 
+古斯格林阵地
+3 Commando Brigade 
+第三突击旅
+commando
+突击手；突击队；突击队员 
+quick reinforcement 
+快速增援
+naval destroyer
+驱逐舰
+patrol ship 
+巡逻舰
+Malvinas Island Defense Force 
+马尔维纳斯岛防御部队（又称：福克兰岛防御部队）
+Duty Station 任职地
+gate guard shack
+门岗
+temporary quarters
+临时宿舍
+mountain post
+山地哨所；兵营
+bend
+拐弯
+lane
+小路；胡同
+welcome center
+报到处
+parking area
+停车场
+HQ building
+总部大楼
+housing area
+居住区
+In-processing
+报到
+military ID card
+军官证
+car registration
+汽车牌照；机动车登记
+driving license
+驾照
+speed limit
+限速
+intersection
+十字路口
+military installation 
+军事设施
+personal file
+个人档案
+forward
+前锋
+guard
+后卫
+to be squared away
+准备就绪
+to process in
+报到
+to transfer
+调动
+to fill one’s shoes
+顶替他人的位置
+3rd ACR
+第三装甲骑兵团
+TO&E
+编制与装备表
+mechanized cavalry
+机械化骑兵
+Brave Rifles
+第三装甲骑兵团的绰号“英勇步枪”
+horse cavalry
+骑兵
+rear area
+后方
+frontier
+边界
+defensive mission
+防御任务
+offensive mission
+进攻任务
+security mission
+安全保障任务
+reconnaissance mission
+侦察任务
+tactical unit
+战术部队
+combined arms unit
+联合作战部队
+highly mobile force
+高机动性部队
+cutting edge
+杀手锏；尖端的
+CFV (cavalry fighting vehicle)
+骑兵战车
+SPH (self-propelled howitzer)
+自行榴弹炮
+screening operation
+警戒；掩护任务
+scout helicopter
+侦察直升机
+transport helicopter
+运输直升机
+Kiowa Warrior scout helicopter
+“基奥瓦勇士”侦察直升机
+cupola/hatch
+（坦克）舱盖
+engine deck
+发动机甲板
+gunsight
+瞄准镜
+road wheel
+（坦克、装甲车等的）负重轮
+side skirt
+履带侧裙
+toe plate
+前甲板
+loader
+填装手；装弹机
+suspension
+悬挂装置
+light armoured vehicle
+轻型装甲车辆
+amphibious ship
+两栖舰船
+Stryker armoured vehicle
+“斯瑞克”装甲车
+column
+纵队
+staggered column
+交错纵队
+wedge
+楔形队形
+echelon
+梯型队形
+vee
+V形队形
+line
+横队
+logistical support
+后勤保障
+co-ordinated command
+协同指挥
+troop
+骑兵连
+mortar platoon
+迫击炮排
+air support
+空中支援
+field artillery squadron
+野战炮兵中队
+field artillery battalion
+野战炮兵营
+engineer battalion
+工程营
+division quartermaster trains command
+师部军需官训练司令部
+special troops command
+特种部队司令部
+ambulance company
+救护连
+cavalry brigade
+骑兵旅
+medical troop
+医疗队
+mobility
+机动
+armored cavalry
+装甲骑兵
+air cavalry
+空骑兵
+light cavalry
+轻骑兵
+heavy cavalry
+重骑兵
+scout
+侦察
+skirmish
+突袭
+signal intelligence & sustainment company
+信号情报与支援连
+combined arms battalion(CAB)
+合成营；联合兵种营
+3rd Calvary Regiment
+第三骑兵团
+regiment of mounted riflemen
+装甲骑兵团
+cavalry squadron
+骑兵中队
+cavalry troop/battery/company
+骑兵连
+independent company/troop
+独立连
+heavy weapons troop
+重装武器连
+mobile gun system
+机动火炮系统
+anti-tank guided missile 
+反坦克制导导弹
+PLA Combined Arms Brigade
+中国人民解放军合成旅
+maneuver formation
+机动编队
+ZhuRihe combined arms tactics training center
+朱日和合同战术训练基地
+motorized infantry brigade
+摩托化步兵旅
+armored brigade
+装甲旅
+mechanized infantry brigade
+机械化步兵旅
+mountain motorized infantry brigade
+山地摩托化步兵旅
+infantry tank
+步兵坦克
+cavalry/cruise tank
+骑兵/巡逻坦克
+flame tank
+火焰坦克
+expedition
+远征
+high-intensity conflict
+高强度作战
+asymmetric warfare
+不对称战争
+mobile cover
+机动掩护
+fortification
+防御工事
+flamethrower
+火焰喷射器
+optical periscope
+光学潜望镜
+gun mantlet
+炮盾
+co-axial gun
+同轴炮
+fume extractor
+排烟装置
+glacis plate 
+斜装甲板
+machine gun ammunition
+机枪弹药
+commander’s MG
+指挥官的机枪；车长机枪
+engine air intake
+发动机进气道
+engine compartment
+发动机室
+armoured skirt
+装甲裙边
+drive sprocket
+传动链轮
+link
+链子
+Headquarters Structure 
+司令部架构
+Joint headquarters 
+联合司令部
+CHOD (Chief of Defense)
+国防部长
+SNR (Senior National Representative)
+国家军官代表团团长（北约各国最高军事代表）
+COS (Chief of Staff)
+参谋长
+Deputy COS Operations (DCOS OPS)
+作战副参谋长
+Deputy COS Support (DCOS SPT)
+保障副参谋长
+Director of Staff ( DOS) 
+参谋部主任
+Liaison Element IT
+联络处
+Protocol
+礼仪部；礼宾部
+Public Information Office
+新闻处
+Chief of Public Information
+新闻处处长
+Joint headquarters
+联合司令部
+Eurocorps   
+欧洲军团
+NATO army corps
+北约陆军部队
+Joint Operations Centre
+联合作战中心
+High Readiness Force
+高度战备部队
+non-governmental organisation (NGOs)
+非政府组织
+Medical Support
+医疗保障
+Coordinating manpower requirements
+协调人力需求
+Evaluating personnel performance report
+评估人员表现报告
+Planning and coordinating major logistical support
+计划协调主要后勤保障工作
+Coordinating logistical exercises
+协调后勤保障演习
+Managing communications and information systems
+管理通信与信息系统
+Responsible for intelligence and counterintelligence
+负责情报和反情报工作
+Supervision of internal security
+内部安全监管
+Collecting and analysing data
+搜集分析数据
+Reporting relevant information to appropriate divisions
+向相关部门汇报情况
+Providing command and controlling staff for all conflict-oriented operations
+向冲突行动提供指挥控制人员
+Coordinating planning for operations
+协调行动计划
+Formulating policy
+制定政策
+Planning and coordinating training and exercises
+计划协调训练和演习
+Liaising with civilian authorities and NGOs
+与当局（地方）政府和非政府组织进行联络
+Helping plan for humanitarian support and restoration of civilian infrastructure
+协助规划人道主义援助和民用基础设施恢复
+Dealing with civilian cultural issues
+处理地方文化事务
+Coordinating military and civil engineer support
+协调军事和民事工程保障支援
+Creation of transportation routes
+修建运输道路
+Creation of obstacles
+设置障碍
+Clearing minefields
+排雷
+Restoration of vital services
+恢复重要设施
+Providing accounting and finance support
+提供会计和财务保障工作
+Providing support for the day-to-day needs of the headquarters
+保障总部的日常需要
+billeting
+安排部队驻扎、设营
+catering
+厨房；餐饮服务
+commander’s mess
+司令部餐厅；长官餐厅
+IAW (in accordance with)
+根据
+NLT（no later than）
+不晚于
+officer of primary responsibility
+主要负责军官
+office call
+办公室通话
+POC (point of contact)
+联络点（员）
+Protocol Chief
+礼宾主管
+tasker
+任务清单
+sit down meal
+正式宴席
+vin d’honneur
+招待会
+welcome package
+报道资料
+agenda
+日程
+pass
+通行证
+rearrangement
+重新安排
+military attaché
+武官
+liaison officer
+联络官
+slide
+幻灯片
+catering section
+餐饮部
+electrician
+电工
+maintenance
+维修处
+light bulb
+电灯泡
+installation
+装置；设备
+lamp
+灯
+military assistant
+军事助理
+venue
+地点
+accommodation
+住处；食宿
+luxury
+奢华
+information desk
+问讯处
+lounge
+候机室
+I have long been looking forward to meeting you. 
+久仰、久仰！
+I haven’t seen you for ages/for a long time./ It’s been such a long time since we met last.
+久违、久违！
+Welcome to China! Did you have a nice trip?/How was the journey/flight?
+欢迎来中国，您一路辛苦了。
+Thank you very much for coming all the way to meet me.
+谢谢您专程来接我。
+Please don’t mention it. It is my pleasure.
+不用谢，这是我们应该做的。
+after you
+您先请
+hotel lobby
+休息大厅
+working/business luncheon
+工作午餐
+buffet reception
+冷餐招待会
+dinner party/banquet
+晚宴
+state banquet
+国宴
+dress code
+着装要求
+to extend kind/cordial hospitality to…
+款待
+to host a banquet in honor of your delegation
+为代表团设宴洗尘
+Thank you for your generous hospitality.
+谢谢您的盛情款待。
+at the invitation of
+承蒙…的邀请
+to pay a good-will visit to…
+对…进行友好访问
+in a private capacity
+以私人身份访问
+delegation headed by…
+以…为首的代表团
+long-expected guest
+期盼已久的客人
+Please make yourself at home.
+请别客气。
+You flattered me./ I feel flattered.
+您过奖了。
+I hope you will enjoy your stay here.
+希望您在这里过得愉快。
+Wish your visit a complete success.
+祝您访问圆满成功。
+Wish you all the best in your tour/visit.
+祝您参观一切顺利！
+to be about to conclude one’s friendly visit in our country
+就要结束在我国的友好访问
+We look forward to your visiting us once again.
+欢迎再来。
+renewing our friendship/old memories
+重叙旧情
+Wish you a pleasant journey./Have a nice trip!
+祝旅途愉快，一路平安！
+naval vessels 
+海军舰艇
+ship
+舰艇；舰船
+boat
+船；艇 
+helicopter assault ship
+直升机机降突击舰
+warship
+军舰，战船
+guided-missile cruisers
+导弹巡洋舰
+amphibious assault ship
+两栖攻击舰
+battleship
+战舰
+super carrier
+超级航母
+strike carrier
+打击航母
+Nimitz carrier
+“尼米兹”号航母
+HMS Invincible
+（英国皇家海军舰艇）“无敌”号航母
+light carrier
+轻航母
+Carrier Battle Group (CBG)
+航母战队
+flotilla
+小舰队；小型船队 [海军用语] 
+bow/front part
+船首；船头[海军用语]
+stern/back part
+船尾
+bridge 
+舰桥
+deck
+甲板
+elevator
+（航母及大型舰艇）电梯或升降机
+runway
+跑道
+island 
+（航空母舰的）舰岛；飞行甲板上层建筑
+port/window
+左舷；舷窗[海军用语]
+starboard
+右舷；右舷的；（v.）向右转舵
+waterline
+吃水线；水线
+deck/floor
+甲板
+hatch/door
+舱口；舱门
+bulkhead/wall
+舱壁；防水壁
+passageway/corridor
+通道；过道
+galley/kitchen
+船上厨房
+compartment/room
+（船上）房间；隔间
+overhead/ceiling
+天花板
+bathroom/head
+浴室；盥洗室
+rack
+（海军人员）床 [海军用语]
+berthing
+（舰船）铺位；床位；停泊；泊位
+arresting wire
+（航母上的）阻拦索
+catapult
+飞机弹射器
+hangar
+机库；机棚
+engine room
+轮机舱
+watch section
+瞭望台
+cable 
+绳索；线缆
+tailhook
+尾钩；制动钩
+Ship’s Operation Room
+船上作战指挥室
+air defense platform
+空防平台
+to launch 
+下水；起飞
+to recover
+复飞
+to manoeuvre
+机动
+arrested landing
+拦阻着舰；拦捕着陆 
+at anchor
+抛锚，停泊
+at dock
+停靠在码头
+in port
+港口内
+underway
+航行中的
+course
+航向
+to chart a course
+制定航线
+to set a course
+设定航线
+to maintain course
+保持航向
+to change course
+改变航向
+on/off course
+在航线上/偏离航线
+machine-powered flight
+机器动力飞行
+shore station
+海岸站；船岸电台
+aviator
+飞行员
+naval aviator
+海军飞行员
+navigator
+（飞机、船舶上的）领航员
+petty officer
+（海军）士官
+Chief Petty Officer (CPO)
+上士
+shore station
+海岸站；船岸电台
+to embark/get on 
+上船
+to disembark/debark/get off
+下船；登陆 
+to go topside/go upstairs
+上甲板
+to go below/go downstairs 
+走下甲板
+forward
+向船头
+aft
+向船尾
+topside
+干舷部；在甲板上
+below
+在甲板下
+watch
+值班；岗哨
+standing watch 
+“站”岗；站哨
+sea duty
+出海勤务
+duty at a shore station
+海岸站值班
+deck movement
+甲板上的活动
+privacy
+隐私
+noise
+喧闹；大声议论
+to change round
+换岗；轮班
+Anti-aircraft Warfare (AAW)
+防空战
+Anti-submarine Warfare (ASW)
+反潜战
+Anti-surface Warfare (ASUW)
+对海作战；水面作战
+defense warfare
+防御战
+Search and Rescue mission
+搜救任务
+front part
+船首
+back part
+船尾
+port
+左舷；舷窗
+deck
+甲板
+hatch
+舱口；舱门
+bulkhead
+舱壁；防水壁
+passageway
+通道；过道
+galley
+船上厨房
+compartment
+（船上）房间；隔间
+overhead
+天花板
+bathroom
+浴室；盥洗室
+navy shower
+“海军浴”
+hot rack
+“暖铺”（换岗）
+leeway
+退路；余地
+belay that order
+听令；接令
+Gangway, hot food.
+借过/劳驾，让开！
+Officer on deck, ten-hut.
+（上级给下级的）提醒，告诫。
+As you were.
+（下指令）继续进行。
+Aye, aye sir.
+明白，是的，长官。
+Belay that last order!
+打住，停止（做某事）！/放下手头的事！
+Very well.
+好的（上级对下级的回应）
+anti-surface missile
+对面打击导弹（打击敌方地面/水面目标）
+Goalkeeper Weapon System
+“守门员”防御武器系统
+close-range guns
+近距枪
+Minigun
+速射机枪；迷你炮机枪
+Sea King helicopter
+“海王”直升机
+Merlins
+“默林”直升机
+Chinook support helicopters
+“奇努克”支援直升机
+Sea Harrier FA2 fighter attack aircraft
+“海鹞”FA2战斗攻击机
+RAF Ground Harrier GR7
+英国皇家空军“地面鹞”GR7攻击机
+GPMG (General Purpose Machine Gun )
+多用途机枪
+Supplementary Vocabulary
+periscope 　　
+潜望镜
+torpedo
+鱼雷
+propeller
+推进器
+sonar
+声纳
+submarine mine
+水雷
+floating mine
+漂雷
+depth charge/depth bomb
+深水炸弹
+nuclear-powered aircraft carrier
+核动力航空母舰
+arrester
+阻拦装置
+flight deck
+飞行甲板
+radar antenna
+雷达天线
+fuel bunker
+油料舱　
+ammunition store
+弹药舱
+nuclear reactor
+核反应堆
+cruiser
+巡洋舰
+missile frigate
+导弹护卫舰　
+battleship
+战列舰
+corvette
+护卫艇
+transport ship
+运输舰
+mine sweeping vessel
+扫雷舰
+minesweeper　　
+扫雷艇
+torpedo boat 　
+鱼雷艇
+missile speedboat
+导弹快艇　
+guided-missile submarine
+导弹潜艇 　
+nuclear-powered submarine 　
+核动力潜艇
+submarine lifeguard ship
+潜艇救护舰
+submarine chaser
+猎潜艇
+landing ship
+登陆舰
+electronic reconnaissance ship
+电子侦察船　
+information-collecting ship
+情报收集船
+survey vessel
+测量船
+research ship
+调查船
+nuclear-powered icebreaker
+核动力破冰船
+patrol hovercraft
+气垫巡逻船
+Joint headquarters 
+联合司令部
+Personnel	G1
+人事部
+Intelligence	
+情报部
+Operations
+作战部
+Logistics and Medical Support
+后勤与医疗部
+Plans/Policy
+规划与政策部
+Communications and Information Systems( CIS)
+通信与信息系统部
+Training and Development
+训练发展部
+Budget and Finance (BUDFIN)
+预算财务部
+Civil-military Co-operation (CIMIC)	
+军民合作部
+

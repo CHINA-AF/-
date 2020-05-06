@@ -1,0 +1,472 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+<link href="/theme/img/logo_16_16.ico" rel="stylesheet">
+<link href="/theme/js/layui/css/layui.css" rel="stylesheet">
+<link href="/theme/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+<link href="/theme/css/global.css?v34" rel="stylesheet">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>\
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>\
+<![endif]-->
+<link href="/theme/js/JudgeBrowser/ie.css" rel="stylesheet">
+
+
+
+
+<script src="/theme/js/jquery.min.js" type="text/javascript"></script>
+<script src="/theme/js/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/theme/js/JudgeBrowser/JudgeBrowser.js" type="text/javascript"></script>
+<script src="/theme/publicmin.js?0432" type="text/javascript"></script>
+<script src="/theme/format.ext.js?v=32" type="text/javascript"></script>
+
+<link href="/theme/js/laypage/skin/laypage.css" rel="stylesheet">
+<script src="/theme/js/layer/layer.js" type="text/javascript"></script><link id="layui_layer_skinlayercss" href="https://www.duifene.com/theme/js/layer/skin/layer.css" rel="stylesheet">
+<script src="/theme/js/layui/layui.js" type="text/javascript"></script>
+<script src="/theme/js/layui/lay/dest/layui.all.js" type="text/javascript"></script><link id="layuicss-laydatecss" href="https://www.duifene.com/theme/js/layui/css/modules/laydate/laydate.css" rel="stylesheet" media="all"><link id="layuicss-skinlayercss" href="https://www.duifene.com/theme/js/layui/css/modules/layer/default/layer.css?v=3.0.11110" rel="stylesheet" media="all"><link id="layuicss-skincodecss" href="https://www.duifene.com/theme/js/layui/css/modules/code.css" rel="stylesheet" media="all">
+<script src="/theme/function.ispass.js"></script>
+<script type="text/javascript">
+    var host = "https://www.duifene.com";
+    var MaxMB = 100;        //用于限制作业上传文件大小
+
+    //页面跳转
+    function goto(url) {
+        this.location.href = "/" + url;
+    }
+
+    ///ext is 是否通过
+    function IsPassFileExt(arrExt, fileExt) {
+        var IsFalse = false;
+        var ext = arrExt.split(',');
+        for (var i = 0; i < ext.length; i++) {
+            if (ext[i].toLowerCase() == fileExt.toLowerCase()) {
+                IsFalse = true;
+            }
+        }
+        return IsFalse;
+    }
+
+    //判断文件大小
+    //1 合格，-1未空文件，-2 超过maxSize -3无法判断什么浏览器 -4ie中获取 文件大小失败
+    function FileSize(target, maxSize) {
+        var browserCfg = {};
+        var ua = window.navigator.userAgent;
+        if (ua.indexOf("MSIE") >= 1)
+            browserCfg.ie = true;
+        else if (ua.indexOf("Firefox") >= 0)
+            browserCfg.firefox = true;
+        else if (ua.indexOf("Chrome") >= 0)
+            browserCfg.chrome = true;
+        else if (ua.indexOf("Mozilla") >= 0)
+            browserCfg.firefox = true;
+
+        var fileSize;
+        if (browserCfg.firefox || browserCfg.chrome)
+            fileSize = target.files[0].size;
+        else if (browserCfg.ie) {
+            try {
+                var filePath = target.value;
+                var fileSystem = new ActiveXObject("Scripting.FileSystemObject");
+                var file = fileSystem.GetFile(filePath);
+                fileSize = file.Size;
+            }
+            catch (ex) {
+                return -4;
+            }
+        }
+        else
+            return -3;
+
+        if (fileSize == 0)
+            return -1;
+        else if (fileSize / 1024 / 1024 > maxSize)
+            return -2;
+        else
+            return 1;
+    }
+</script>
+
+<title>
+	在线练习-对分易-教学平台
+</title><link href="JS/studpaper.css?v=2020" rel="stylesheet"></head>
+<body>
+    <form id="form1" action="StudentPapers.aspx" method="post">
+<div class="aspNetHidden">
+<input name="__VIEWSTATE" id="__VIEWSTATE" type="hidden" value="Q3n7M84om9N/s6C6cfki6nXMLUQsPjbwDRKWCzmgROaPsd2/cGb1ZQHb/+FCxlRaaf9WvwLf6asM4SwZpZLNJIOQHC1b4FPwV8MaHVuQGuaXOlL2ih+S+pYQU/T5H/4WBUVcHP4AP42ZYbmV+lF27/1meCh8OHlnpwiM4zIpRj1uweRJzupON70vO6h5K/lON7WKP6aOWuPVZv4FrMQGZlTvCc6R3IVtz74md5PEAgXFQJsYpjUxLoxSbQ8jbCpnn3hdpB+CVXmY8Fesh6H356w7BiAMoPtNX/plz57u8FzKkezhJJt8Ei1eos8rWwVvoKWpvfBGTK3PwtO5pV52Qr6qb1DeczpM1mRMEmWnnDa2tEoZ7QtDTfreuZCdZM29A98Fl5zFxNBn2hesHKBykTaRN4pS8bJlZIF4wC85lwLAYEO2I+TrnxaBYpfi8JHEaozP7hjEpupTeYxTgjugQWKp9jNIvfp4wopokAKTZYSwkV7wbxOYUdVSw5QDK+dg">
+</div>
+
+        
+
+
+<style type="text/css">
+    body { margin-top: 60px; background: #D8DECA url(../../theme/img/bg_main.jpg) no-repeat top center; background-attachment: fixed; }
+    
+    /*去掉悬浮头部全部显示*/
+    /*#uchead.navbar-fixed-top { position:absolute;  min-width: 1170px; }*/
+    /*Menu*/
+    #uchead { background-color: #434750; border: 0; border-radius: 0; cursor: default; color: #c0c0c0; padding: 0; }
+        #uchead > div { width: 1170px; height: 50px; padding: 0; margin: 0 auto; }
+            #uchead > div > div { display: inline-block; position: relative; }
+        #uchead .head-logo { margin: 0; padding: 0; padding-top: 5px; margin-left: -7px; padding-right: 85px; cursor: pointer; }
+            #uchead .head-logo span { color: #fff; position: absolute; left: 120px; bottom: 12px; font: 300 12pt "微软雅黑"; }
+        #uchead .head-welcome { font: 300 13px '宋体'; }
+            #uchead .head-welcome span { border-left: 1px solid #666; padding-left: 10px; bottom: 0px; }
+            #uchead .head-welcome a { color: #0aF; text-decoration: underline; }
+
+        #uchead .head-img { float: right; height: 50px; line-height: 50px; cursor: pointer; padding: 0 15px; }
+            #uchead .head-img:hover { color: #fff; }
+                #uchead .head-img:hover .head-list { visibility: visible; }
+            #uchead .head-img > label { font: 300 15px '宋体'; cursor: pointer; }
+            #uchead .head-img > .glyphicon { font-size: 22px; top: 5px; /*transform: scale(0.8);*/ }
+        #uchead .head-split { border-left: 1px solid #777; }
+            #uchead .head-split:before { content: ''; left: -2px; position: absolute; width: 0px; height: 50px; border-left: 1px solid #080808; }
+
+        #uchead .head-list { visibility: hidden; position: absolute; left: 0; top: 50px; width: 180px; border: 1px solid #C5C5C5; border-top: 0; border-bottom-color: #A9A9A9; background: #fff; border-radius: 0 0 5px 5px; color: #434750; font: 300 15px '宋体'; }
+            #uchead .head-list > div { padding: 10px 15px; cursor: pointer; position: relative; }
+                #uchead .head-list > div:first-child { padding-top: 15px; }
+                #uchead .head-list > div:last-child { padding-bottom: 15px; }
+                #uchead .head-list > div:hover { background: #ccc; }
+                #uchead .head-list > div > span { margin-right: 10px; }
+
+        #uchead .head-list-warning { font: 300 10px '宋体'; background: #F40; color: #eee; padding: 3px 5px; position: absolute; right: 0; top: 9px; }
+            #uchead .head-list-warning:before { content: ""; position: absolute; left: -3px; top: 6px; width: 0; border: transparent solid 3px; border-left: 0; border-right: #F40 solid 3px; background-color: transparent; }
+        #uchead .head-list > div:first-child .head-list-warning { top: 14px; }
+
+    /*操作手册提醒（暂停）*/
+    /*z-index范围[1030,1040);*/
+    /*#divhelp { background: rgba(0,0,0,0.5); width: 100%; height: 100%; left: 0; top: 0; position: fixed!important; z-index: 1035; cursor: default; }
+        #divhelp .container { padding-top: 25px; margin-bottom: 5px; z-index: 1036; position: relative; height: 93px; }
+        #divhelp #helpimg { position: absolute; right: 95px; top: 8px; background: url(../../theme/img/help_main.png); width: 410px; height: 230px; }
+        #divhelp #helpimgtext { color: #333; margin: 110px 130px 0px 55px; }
+            #divhelp #helpimgtext div { line-height: 30px; text-indent: 2em; }
+            #divhelp #helpimgtext a { cursor: pointer; color: #3E85C3; }*/
+
+    /*子页面*/
+    .body-default { background: rgba(255,255,255,0.9); border-radius: 5px; padding: 10px 15px 20px 15px; width: 1170px; margin: 0 auto; }
+    .classlist { line-height: 30px; margin-bottom: 15px; }
+        .classlist a { text-decoration: none; font: bold '宋体'; color: #222; display: inline-block; }
+            .classlist a:hover { color: #E32; }
+        .classlist > a + a:before { content: "|"; color: #ccc; padding: 0 15px; }
+        .classlist .sel { color: #E32 !important; }
+
+    #Header_divBreadcrumb { overflow: hidden; color: #777; cursor: default; padding: 0px; width: 1170px; margin: 0 auto; }
+        #Header_divBreadcrumb > div { float: left; height: 50px; line-height: 50px; }
+            #Header_divBreadcrumb > div + div:before { content: ">"; color: gray; padding: 0 10px; }
+            #Header_divBreadcrumb > div[data-url]:hover { color: #E32; cursor: pointer; }
+
+    /*广告*/
+    .adBaidu { position: fixed; top: 50%; width: 120px; height: 240px; margin-top: -120px; background: #fff; z-index: 9999; }
+        .adBaidu.left { left: 0; }
+        .adBaidu.right { right: 0; }
+        .adBaidu > a { position: absolute; right: 0; top: 0; font: 500 12px '宋体'; background: rgba(0,0,0,0.4); color: #fff; padding: 1px 2px; }
+            .adBaidu > a:hover { cursor: pointer; background: rgba(0,0,0,0.5); }
+
+    .how2vip { background: #fff; }
+        .how2vip > p { text-align: center; padding-top: 20px; color: #F80; font: 100 18px '微软雅黑'; }
+        .how2vip > div { color: #466; padding: 0 20px; line-height: 30px; }
+</style>
+
+<div class="navbar navbar-fixed-top" id="uchead">
+    <div>
+        
+        <div class="head-logo" onclick="goto('Home.aspx')">
+            <img alt="对分易" src="/theme/img/logo_110_43_x.png"><span>教学平台</span>
+        </div>
+        <div class="head-welcome">
+            <span>欢迎您，李浩南 同学</span>
+            
+        </div>
+        <div class="head-img head-split" onclick="GoOutExit()">
+            <span class="glyphicon glyphicon-log-out"></span>
+            <label>退出</label>
+        </div>
+        <div class="head-img">
+            <span class="glyphicon glyphicon-info-sign"></span>
+            <label>客服与帮助</label>
+            <div class="head-list">
+                <div onclick="window.open('/Public/PC/OnlineCS.aspx')"><span class="glyphicon glyphicon-headphones"></span>在线客服</div>
+                <div onclick="DownHelp()"><span class="glyphicon glyphicon-book"></span>操作手册</div>
+                <div onclick="window.open('/Help/PC/HelpIndex.aspx')"><span class="glyphicon glyphicon-question-sign"></span>常见问题</div>
+                <div onclick="window.open('https://www.google.cn/chrome/')"><span class="glyphicon glyphicon-download-alt"></span>谷歌浏览器32位</div>
+                <div onclick="window.open('https://fs.duifene.com/sysimg/Chrome79_64%E4%BD%8D.exe')"><span class="glyphicon glyphicon-download-alt"></span>谷歌浏览器64位</div>
+            </div>
+        </div>
+        <div class="head-img" id="Header_studentTools">
+            <span class="glyphicon glyphicon-folder-close"></span>
+            <label>我的调查问卷</label>
+            <div class="head-list">
+                <div onclick="FromGoTo('/_Survey/PC/SurveyListSA.aspx',{'courseid':0,'classtype':2,'moduleid':0})"><span class="glyphicon glyphicon-file"></span>我的调查问卷</div>
+            </div>
+        </div>
+        
+        <div class="head-img">
+            <span class="glyphicon glyphicon-user"></span>
+            <label>个人设置</label>
+            <div class="head-list">
+                <div onclick="goto('_UserCenter/PC/PersonalDetials.aspx')"><span class="glyphicon glyphicon-cog"></span>个人设置<span class="head-list-warning" id="Header_divuser" style="">请完善</span></div>
+                
+                <div id="Header_MyMsgBox" onclick="FromGoTo('/_Message/PC/MyMsgBox.aspx',{'courseid':0,'classtype':1})"><span class="glyphicon glyphicon-envelope"></span>系统消息</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="container" id="Header_divBreadcrumb"></div>
+
+<input name="Header$CLassID" id="Header_CLassID" type="hidden" value="0">
+<input name="Header$ClassType" id="Header_ClassType" type="hidden" value="2">
+<input name="Header$CourseID" id="Header_CourseID" type="hidden" value="117500">
+<input name="Header$ModuleID" id="Header_ModuleID" type="hidden" value="0">
+<input name="Header$BranchNO" id="Header_BranchNO" type="hidden" value="0">
+<input name="Header$HFHeadUserTypeID" id="Header_HFHeadUserTypeID" type="hidden" value="2">
+
+<script type="text/javascript">
+    function BaiduKill() {
+        layer.open({
+            type: 1,
+            title: "关闭广告",
+            area: ["400px", "auto"],
+            content: "<div class='how2vip'><p>如何去广告?</p><div>一）打开手机对分易微信公众号</div><div>二）进入对分易 > 我的 > 会员中心</div><div>三）完成支付，享受整站去广告等会员特权</div></div>",
+            btn: ['我知道了'],
+            yes: function (index, layero) {
+                $(".adBaidu").remove();
+                layer.close(index);
+            }
+        });
+    }
+
+    function GoOutExit() {
+        layui.layer.confirm('确定是否退出？', {
+            btn: ['确定', '取消'] //按钮
+        }, function () {
+            var options = { "action": "exit" };
+            $.post("https://www.duifene.com/AppCode/LoginInfo.ashx", options, function (datajson) {
+                if (datajson != null && typeof (datajson) == "string" && datajson.length > 0) { try { datajson = JSON.parse(datajson); } catch (e) { datajson = eval("(" + datajson + ")"); } }
+                window.location.href = "https://www.duifene.com/Home.aspx";
+            });
+        }, function () {
+            return true;
+        });
+    }
+
+    function DownHelp() {
+        var UserTypeID = "2";
+        if (UserTypeID == 2) {
+            window.open("/help/SHelp.pdf");
+        } else {
+            window.open("/help/THelp.pdf");
+        }
+    }
+
+    $(function () {
+        //cookie存在则不显示
+        //var cookName = "visited=";
+        //if (document.cookie.indexOf(cookName) == -1) {
+        //    $("#divhelp").show();
+        //}
+
+        ////点击后储存cookie  
+        //$("#helpimgtext a").on("click", function () {
+        //    $("#divhelp").hide();
+        //    var date = new Date();
+        //    date.setTime(date.getTime() + 365 * 24 * 3600 * 1000);
+        //    document.cookie = "visited=1;path=/;expires=" + date.toGMTString() + "";
+        //});
+
+        //面包屑导航
+        $("#Header_divBreadcrumb div:last-child").removeAttr("data-url");
+        $("#Header_divBreadcrumb div[data-url]").on("click", function () {
+            //alert($(this).attr("data-moduleid"));
+            var options = { "courseid": $("#Header_CourseID").val(), "classtype": $("#Header_ClassType").val(), "classid": $("#Header_CLassID").val(), "moduleid": $(this).attr("data-moduleid"), "branchno": $("#Header_BranchNO").val() };
+            FromGoTo('' + $(this).attr("data-url"), options);
+        });
+
+        ifAgainLogin();///是否需要重新登录
+    });
+
+    function ChangeType() {
+        $.post("https://www.duifene.com/AppCode/LoginInfo.ashx", { "Action": "changetype" }, function (datajson) {
+                if (datajson != null && typeof (datajson) == "string" && datajson.length > 0) { try { datajson = JSON.parse(datajson); } catch (e) { datajson = eval("(" + datajson + ")"); } }
+
+                if (datajson.msg == "1") {
+                    window.location.href = "/_UserCenter/PC/CenterTeacher.aspx";
+                } else if (datajson.msg == "2") {
+                    window.location.href = "/_UserCenter/PC/CenterStudent.aspx";
+                } else {
+                    GoToLoginPage();
+                }
+
+            });
+        }
+
+        //回登录页
+        function GoToLoginPage() {
+            layui.layer.open({
+                type: 1
+                , shadeClose: false
+                , scrollbar: false
+                , move: false
+                , closeBtn: 0
+                , title: ['登录超时', 'font-size:18px; text-align:left;']
+                , area: ['260px', '150px']
+                , content: "<div style=\"font-size:18px; text-align:center;height：50px;  line-height: 50px; \">请重新登录！</div>"
+                , btnAlign: 'c'
+                , btn: ['确定']
+                , yes: function (index, layero) {
+                    //确定 的回调
+                    window.location.href = "https://www.duifene.com/Home.aspx";
+            }
+        });
+        }
+
+        //是否重新登录
+        function ifAgainLogin() {
+            $.post("https://www.duifene.com/AppCode/LoginInfo.ashx", { "Action": "checklogin" }, function (datajson) {
+                if (datajson != null && typeof (datajson) == "string" && datajson.length > 0) { try { datajson = JSON.parse(datajson); } catch (e) { datajson = eval("(" + datajson + ")"); } }
+                if (datajson.msg != "1") {
+                    //myAlert("提示", "请重新登录！", "goto('Home.aspx')", "hidden");
+                    GoToLoginPage();
+                }
+            });
+        }
+
+</script>
+
+
+        <div class="container body-default">
+            <div style="overflow: hidden;">
+                <div class="paperName">
+                    英语 练习卷 200504110020
+                    <span>（满分30分）</span>
+                </div>
+                <div class="btn btn-danger" id="btnSubmit" onclick="javascript:SubmitPaper();">完成并提交</div>
+                <div id="leftTime"></div>
+            </div>
+            <div id="subjectMain">
+                <div id="divSubjectTitle">一、<span class="type1">（共30题，共30分）</span></div>
+
+                <div id="divSubjectIndex">
+                    <div>第<span id="itemIndex">5</span>/<span id="allIndex">30</span>题</div>
+                    <div id="subjectType"><span>填空题</span></div>
+                    <div id="myScore"></div>
+                </div>
+
+                <div id="divSubjectName"><p><span style="font-size: 12pt; font-family: 宋体; background: white;">挡弹墙</span><span class="type1">（本题1分）</span></p><div style="padding:3px 2px;color:#01AAED;font-size:12px;">请填写答案</div></div>
+
+                <div id="divSubjectItem"><div><a class="Gap_Filling  itemDefault"><div>1</div><div><textarea style="height:18px;overflow-y:hidden;" rows="1" data-typeid="4" data-lastscore="1" data-average="1" data-sort="1" data-sid="5"></textarea></div></a></div></div>
+            </div>
+            <div class="row" id="subjectFoot">
+                <div class="col-xs-4" id="previous">
+                    <a class="btn btn-default" style="display: inline-block;" onclick="javascript:Sub_Previous();"><span class="glyphicon glyphicon-circle-arrow-left"></span>&nbsp;上一题</a>
+                </div>
+                <div class="col-xs-4" id="view">
+                    <a class="btn" onclick="javascript:ShowAnswerSheet();"><span class="glyphicon glyphicon-th" style="color: #fff;"></span>&nbsp;&nbsp;答题卡</a>
+                </div>
+                <div class="col-xs-4" id="next">
+                    <a class="btn btn-default" style="display: inline-block;" onclick="javascript:Sub_Next();">下一题&nbsp;<span class="glyphicon glyphicon-circle-arrow-right"></span></a>
+                </div>
+            </div>
+        </div>
+        
+
+<style type="text/css">
+    body { margin-bottom: 50px; }
+    #ucfoot { background: #585858; border: 0; border-radius: 0; min-height:25px; }
+        #ucfoot a { text-decoration: none; }
+        #ucfoot .container { text-align: center; font: normal 15px "微软雅黑"; height: 25px; line-height: 25px; color: #bbb; }
+        #ucfoot .footleft { float: left; margin-left: 5px; font-size: 0.7em; }
+            #ucfoot .footleft > div { display: inline; }
+                #ucfoot .footleft > div + div { margin-left: 10px; }
+        #ucfoot .footright { float: right; }
+        #ucfoot #footlogo span { color: #efefef; font: normal 12pt "微软雅黑"; vertical-align: middle; margin-left: 10px; }
+    
+        #cnzz_stat_icon_1259289944 { display: none; }
+</style>
+
+
+<div class="navbar navbar-fixed-bottom" id="ucfoot">
+    <div class="container">
+        <div class="footleft">
+            <div>@<script>document.write(new Date().getFullYear())</script>2020
+                duifene All Right Reserved</div>
+            <div>沪ICP备16003333号</div>
+            <div>沪公网安备31010702001620号</div>
+            <div>商务合作QQ:800186388</div>
+        </div>
+        <div class="footright">
+            <a title="首页" id="footlogo" onclick="goto('_UserCenter/PC/index.aspx')" href="javascript:void(0)">
+                
+                
+            </a>
+            <span style="font-size: 10px; display: inline-block; vertical-align: text-top; /*margin-top: -10px;*/">
+                V5.6.6284</span>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cspan id='cnzz_stat_icon_1259289944'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1259289944%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script><span id="cnzz_stat_icon_1259289944"><a title="站长统计" href="https://www.cnzz.com/stat/website.php?web_id=1259289944" target="_blank"><img src="https://icon.cnzz.com/img/pic.gif" border="0" vspace="0" hspace="0"></a></span><script src="https://s4.cnzz.com/z_stat.php?id=1259289944&amp;show=pic" type="text/javascript"></script><script src="https://c.cnzz.com/core.php?web_id=1259289944&amp;show=pic&amp;t=z" type="text/javascript" charset="utf-8"></script>
+
+
+
+        <input name="hidEBatchID" id="hidEBatchID" type="hidden" value="108177">
+        <input name="hidUserPaperID" id="hidUserPaperID" type="hidden" value="7263717">
+        <input name="hidHistPaperID" id="hidHistPaperID" type="hidden" value="107606">
+        <input name="hidStudentID" id="hidStudentID" type="hidden" value="3206203">
+        <input name="hidLimitTime" id="hidLimitTime" type="hidden">
+        <input name="hidSS" id="hidSS" type="hidden" value="3">
+
+        <input name="hidUps" id="hidUps" type="hidden" value='[{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":1,"Answer":"","Sort":1,"Score":0.00,"UpsSort":1},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":2,"Answer":"","Sort":2,"Score":0.00,"UpsSort":2},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":3,"Answer":"","Sort":3,"Score":0.00,"UpsSort":3},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":4,"Answer":"","Sort":4,"Score":0.00,"UpsSort":4},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":5,"Answer":"","Sort":5,"Score":0.00,"UpsSort":5},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":6,"Answer":"","Sort":6,"Score":0.00,"UpsSort":6},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":7,"Answer":"","Sort":7,"Score":0.00,"UpsSort":7},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":8,"Answer":"","Sort":8,"Score":0.00,"UpsSort":8},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":9,"Answer":"","Sort":9,"Score":0.00,"UpsSort":9},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":10,"Answer":"","Sort":10,"Score":0.00,"UpsSort":10},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":11,"Answer":"","Sort":11,"Score":0.00,"UpsSort":11},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":12,"Answer":"","Sort":12,"Score":0.00,"UpsSort":12},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":13,"Answer":"","Sort":13,"Score":0.00,"UpsSort":13},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":14,"Answer":"","Sort":14,"Score":0.00,"UpsSort":14},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":15,"Answer":"","Sort":15,"Score":0.00,"UpsSort":15},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":16,"Answer":"","Sort":16,"Score":0.00,"UpsSort":16},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":17,"Answer":"","Sort":17,"Score":0.00,"UpsSort":17},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":18,"Answer":"","Sort":18,"Score":0.00,"UpsSort":18},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":19,"Answer":"","Sort":19,"Score":0.00,"UpsSort":19},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":20,"Answer":"","Sort":20,"Score":0.00,"UpsSort":20},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":21,"Answer":"","Sort":21,"Score":0.00,"UpsSort":21},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":22,"Answer":"","Sort":22,"Score":0.00,"UpsSort":22},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":23,"Answer":"","Sort":23,"Score":0.00,"UpsSort":23},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":24,"Answer":"","Sort":24,"Score":0.00,"UpsSort":24},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":25,"Answer":"","Sort":25,"Score":0.00,"UpsSort":25},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":26,"Answer":"","Sort":26,"Score":0.00,"UpsSort":26},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":27,"Answer":"","Sort":27,"Score":0.00,"UpsSort":27},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":28,"Answer":"","Sort":28,"Score":0.00,"UpsSort":28},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":29,"Answer":"","Sort":29,"Score":0.00,"UpsSort":29},{"UserPaperID":7263717,"HistPaperID":107606,"SubjectID":30,"Answer":"","Sort":30,"Score":0.00,"UpsSort":30}]'>
+        <input name="hidUpsa" id="hidUpsa" type="hidden" value="[]">
+        <input name="hidSt" id="hidSt" type="hidden" value='[{"HistPaperID":107606,"SubjectTitleID":1,"Name":"","Sort":1,"ParentID":0,"TitleSort":null,"SubjectNum":0,"TotalScore":0.0}]'>
+        <input name="hidS" id="hidS" type="hidden" value='[{"HistPaperID":107606,"SubjectID":1,"CourseID":117500,"Question":"<p><strong><span style=\"font-size: 14pt; font-family: 宋体;\">（与某人）联合</span><span style=\"font-size: 14pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;\">&amp;nbsp;</span></strong></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:03:14","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":1},{"HistPaperID":107606,"SubjectID":2,"CourseID":117500,"Question":"<p><strong><span style=\"font-size: 14pt; font-family: 宋体;\">从侧翼包抄敌人</span></strong></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:03:32","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":2},{"HistPaperID":107606,"SubjectID":3,"CourseID":117500,"Question":"<p><strong><span style=\"font-size:19px;font-family:宋体;color:black\">集中兵力对付某一点</span></strong><strong><span style=\"font-size:19px;font-family:&amp;#39;Times New Roman&amp;#39;,serif;color:black\"> </span></strong></p><p><br/></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:03:51","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":3},{"HistPaperID":107606,"SubjectID":4,"CourseID":117500,"Question":"<p><strong><span style=\"font-size: 14pt; font-family: 宋体;\">突破防线</span><span style=\"font-size: 14pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;\">&amp;nbsp;</span></strong></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:04:06","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":4},{"HistPaperID":107606,"SubjectID":5,"CourseID":117500,"Question":"<p><span style=\"font-size: 12pt; font-family: 宋体; background: white;\">挡弹墙</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:04:40","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":5},{"HistPaperID":107606,"SubjectID":6,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">空降部队</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:04:58","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":6},{"HistPaperID":107606,"SubjectID":7,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">步兵师</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:05:08","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":7},{"HistPaperID":107606,"SubjectID":8,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">后勤</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:05:23","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":8},{"HistPaperID":107606,"SubjectID":9,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">弹药；军火</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:05:38","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":9},{"HistPaperID":107606,"SubjectID":10,"CourseID":117500,"Question":"<p><span style=\"font-family: 宋体;\">护耳器</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:06:12","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":10},{"HistPaperID":107606,"SubjectID":11,"CourseID":117500,"Question":"<p><span style=\"font-size: 12pt; font-family: 宋体; background: white;\">下靶场</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:06:30","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":11},{"HistPaperID":107606,"SubjectID":12,"CourseID":117500,"Question":"<p><span style=\"font-size: 12pt; font-family: 宋体; background: white;\">分派；急件</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:07:05","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":12},{"HistPaperID":107606,"SubjectID":13,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">伞兵团</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:08:02","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":13},{"HistPaperID":107606,"SubjectID":14,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">军用伞翼</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:08:37","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":14},{"HistPaperID":107606,"SubjectID":15,"CourseID":117500,"Question":"<p><span style=\"background-color: white; font-family: 宋体; font-size: 12pt;\">标志、徽章</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:09:06","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":15},{"HistPaperID":107606,"SubjectID":16,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">无线电耳机</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:09:26","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":16},{"HistPaperID":107606,"SubjectID":17,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">额外弹药</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:09:42","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":17},{"HistPaperID":107606,"SubjectID":18,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">弹夹袋</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:09:53","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":18},{"HistPaperID":107606,"SubjectID":19,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">单兵武器</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:10:12","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":19},{"HistPaperID":107606,"SubjectID":20,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">挖掘工具</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:10:23","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":20},{"HistPaperID":107606,"SubjectID":21,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">作战口粮；军用压缩干粮</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:10:38","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":21},{"HistPaperID":107606,"SubjectID":22,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">（帆布）背包</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:10:49","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":22},{"HistPaperID":107606,"SubjectID":23,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">瞄准器</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:11:16","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":23},{"HistPaperID":107606,"SubjectID":24,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">枪口；炮口</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:15:13","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":24},{"HistPaperID":107606,"SubjectID":25,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">野外作战技能</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:15:36","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":25},{"HistPaperID":107606,"SubjectID":26,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">越野跑；越野赛</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:16:04","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":26},{"HistPaperID":107606,"SubjectID":27,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">毕业阅兵典礼；结业</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:16:18","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":27},{"HistPaperID":107606,"SubjectID":28,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">核生化考核</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:16:29","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":28},{"HistPaperID":107606,"SubjectID":29,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">靶场负责人</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:16:43","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":29},{"HistPaperID":107606,"SubjectID":30,"CourseID":117500,"Question":"<p><span style=\"font-size:16px;font-family:宋体\">门岗</span></p>","Answer":"********","Explain":"********","TypeID":4,"CreateID":3476495,"CreateDate":"2020-05-04T11:17:34","IsDel":0,"IsOrderly":0,"SubjectTitleID":1,"Score":1.0,"Sort":30}]'>
+        <input name="hidSo" id="hidSo" type="hidden" value='[{"HistPaperID":107606,"SubjectID":1,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":2,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":3,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":4,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":5,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":6,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":7,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":8,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":9,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":10,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":11,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":12,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":13,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":14,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":15,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":16,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":17,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":18,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":19,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":20,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":21,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":22,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":23,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":24,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":25,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":26,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":27,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":28,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":29,"Sort":"1","Item":"********","SmallImg":""},{"HistPaperID":107606,"SubjectID":30,"Sort":"1","Item":"********","SmallImg":""}]'>
+
+        <input name="sysCourseID" id="sysCourseID" type="hidden" value="117500">
+        <input name="sysClassID" id="sysClassID" type="hidden" value="0">
+        <input name="sysClassType" id="sysClassType" type="hidden" value="2">
+
+        <div id="answerSheet" style="display: none;">
+            <div class="viewTab"><div class="done" onclick="javascript:To_Sub(1);">1</div><div class="done" onclick="javascript:To_Sub(2);">2</div><div class="done" onclick="javascript:To_Sub(3);">3</div><div class="done" onclick="javascript:To_Sub(4);">4</div><div class="undo this" onclick="javascript:To_Sub(5);">5</div><div class="undo" onclick="javascript:To_Sub(6);">6</div><div class="undo" onclick="javascript:To_Sub(7);">7</div><div class="undo" onclick="javascript:To_Sub(8);">8</div><div class="undo" onclick="javascript:To_Sub(9);">9</div><div class="undo" onclick="javascript:To_Sub(10);">10</div><div class="undo" onclick="javascript:To_Sub(11);">11</div><div class="undo" onclick="javascript:To_Sub(12);">12</div><div class="undo" onclick="javascript:To_Sub(13);">13</div><div class="undo" onclick="javascript:To_Sub(14);">14</div><div class="undo" onclick="javascript:To_Sub(15);">15</div><div class="undo" onclick="javascript:To_Sub(16);">16</div><div class="undo" onclick="javascript:To_Sub(17);">17</div><div class="undo" onclick="javascript:To_Sub(18);">18</div><div class="undo" onclick="javascript:To_Sub(19);">19</div><div class="undo" onclick="javascript:To_Sub(20);">20</div><div class="undo" onclick="javascript:To_Sub(21);">21</div><div class="undo" onclick="javascript:To_Sub(22);">22</div><div class="undo" onclick="javascript:To_Sub(23);">23</div><div class="undo" onclick="javascript:To_Sub(24);">24</div><div class="undo" onclick="javascript:To_Sub(25);">25</div><div class="undo" onclick="javascript:To_Sub(26);">26</div><div class="undo" onclick="javascript:To_Sub(27);">27</div><div class="undo" onclick="javascript:To_Sub(28);">28</div><div class="undo" onclick="javascript:To_Sub(29);">29</div><div class="undo" onclick="javascript:To_Sub(30);">30</div></div>
+        </div>
+
+    </form>
+    <!--UEditor-->
+    <script src="/theme/js/UEditor/ueditor.config.js"></script>
+    <script src="/theme/js/UEditor/ueditor.all.js"></script>
+    <script src="/theme/js/UEditor/lang/zh-cn/zh-cn.js"></script>
+    <!--公式编辑器-->
+    <script src="/theme/js/UEditor/kityformula-plugin/addKityFormulaDialog.js"></script>
+    <script src="/theme/js/UEditor/kityformula-plugin/getKfContent.js"></script>
+    <script src="/theme/js/UEditor/kityformula-plugin/defaultFilterFix.js"></script>
+    <script src="JS/studpaper.js?v=20320412" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            document.onkeydown = function () {
+                if (window.event && window.event.keyCode == 13) {
+                    window.event.returnValue = false;
+                }
+            };
+
+            //面包屑导航
+            $("#Header_divBreadcrumb div[data-url]").unbind("click");
+            $("#Header_divBreadcrumb div[data-url]").on("click", function () {
+                var options = { "courseid": $("#Header_CourseID").val(), "classtype": $("#Header_ClassType").val(), "ebatchid": $("#hidEBatchID").val(), "moduleid": $(this).attr("data-moduleid"), "histpaperid": $("#hidHistPaperID").val(), "classid": $("#sysClassID").val() };
+                FromGoTo($(this).attr("data-url"), options);
+            });
+        });
+
+
+    </script>
+
+
+<div class="layui-layer-move"></div></body></html>
